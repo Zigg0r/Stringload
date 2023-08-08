@@ -5,9 +5,9 @@
 
 
 **Trusted URLs**  
-- GitHub (*.github.io)  
-- Pastebin (pastebin.com)  
-- Github Gist (gist.githubusercontent.com)  
+GitHub (*.github.io)  
+Pastebin (pastebin.com)  
+Github Gist (gist.githubusercontent.com)  
 
 
 
