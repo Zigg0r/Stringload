@@ -11,7 +11,7 @@
 //
 // =============================================
 
-Zoz Zero,20
+Zoz Zero,20 | Zoz Zero,20
 JPominium,20
 Korningaz,20
 Rada,20
@@ -20,23 +20,3 @@ Kattslickare,20
 _Amnesiac,20
 CarThax,20
 Raeal Bit-Tooth,20
-
-
-test,10
-test,20
-test,30
-test,10
-test,20
-test,30
-test,10
-test,20
-test,30
-test,10
-test,20
-test,30
-test,10
-test,20
-test,30
-test,10
-test,20
-test,30
