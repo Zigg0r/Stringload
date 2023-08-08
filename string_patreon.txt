@@ -1,0 +1,22 @@
+// =============================================
+// SUPPORTER LIST
+// =============================================
+//
+// FORMAT : Supporter Name, Rank
+//
+// RANK LIST
+//  10 = Cube_001  €1  B4B4B4  Grey
+//  20 = Cube_003  €3  FFFFFF  White
+//  30 = Cube_008  €8  FFA500  Orange
+//
+// =============================================
+
+Zoz Zero,20
+JPominium,20
+Korningaz,20
+Rada,20
+Ascendence,20
+Kattslickare,20
+_Amnesiac,20
+CarThax,20
+Raeal Bit-Tooth,20
