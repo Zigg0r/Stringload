@@ -1,259 +1,400 @@
-Everyone takes a drink whose name starts with A
-Everyone takes a drink whose name starts with B
-Everyone takes a drink whose name starts with C
-Everyone takes a drink whose name starts with D
-Everyone takes a drink whose name starts with E
-Everyone takes a drink whose name starts with F
-Everyone takes a drink whose name starts with G
-Everyone takes a drink whose name starts with H
-Everyone takes a drink whose name starts with I
-Everyone takes a drink whose name starts with J
-Everyone takes a drink whose name starts with K
-Everyone takes a drink whose name starts with L
-Everyone takes a drink whose name starts with M
-Everyone takes a drink whose name starts with N
-Everyone takes a drink whose name starts with O
-Everyone takes a drink whose name starts with P
-Everyone takes a drink whose name starts with Q
-Everyone takes a drink whose name starts with R
-Everyone takes a drink whose name starts with S
-Everyone takes a drink whose name starts with T
-Everyone takes a drink whose name starts with U
-Everyone takes a drink whose name starts with V
-Everyone takes a drink whose name starts with W
-Everyone takes a drink whose name starts with X
-Everyone takes a drink whose name starts with Y
-Everyone takes a drink whose name starts with Z
-Everyone who has a 0 in their age drinks
-Everyone who has a 1 in their age drinks
-Everyone who has a 2 in their age drinks
-Everyone who has a 3 in their age drinks
-Everyone who has a 4 in their age drinks
-Everyone who has a 5 in their age drinks
-Everyone who has a 6 in their age drinks
-Everyone who has a 7 in their age drinks
-Everyone who has a 8 in their age drinks
-Everyone who has a 9 in their age drinks
-Take 1 drink
-Take 2 drinks
-Take 3 drinks
-Take 4 drinks
-Take 5 drinks
-Give away 1 drink
-Give away 2 drinks
-Give away 3 drinks
-Give away 4 drinks
-Give away 5 drinks
-Take 1 drink, give 1 drink
-Take 1 drink, give 2 drinks
-Take 2 drinks, give 1 drink
-Pick a drinking budy, you both drink the amount you suggest
-Pick a drinking budy, you both drink the amount they suggest
-Drink with the person to your left and right
-The person to your left and right drink
-The person across of you drinks
-Finish half of your drink
-Finish your drink
-Fill up your drink again
-Everyone fills up their drink again
-Pick 2 people, they both finish half their drink
-The person after you picks how much you drink, they drink half that before they spin
-404: drink 4
-All male avatars drink
-All female avatars drink
-All guys drink
-All girls drink
-Drink as much drinks as you want, everyone else drinks half that
-Oldest person in the room drinks
-Youngest person in the room drinks
-Tallest avatar drinks
-Shortest avatar drinks
-Longest username drinks
-Shortest username drinks
-Drink again if you drank something last turn
-Everyoone in the room drinks
-Everyone drinks, except for you :(
-Anyone smaller than you drinks
-Anyone taller than you drinks
-All avatars with animal ears drink
-All avatars with a tail drink
-All avatars wearing shoes drink
-All avatars that are NSFW drink
-All avatars with lights on them drink
-All avatars wearing glasses drink
-All avatars wearing thigh highs drink
-All furry avatars drink
-All inanimate avatars drink
-All avatars with emission on them drink
-All avatars with AudioLink on them drink
-All E-boy avatars drink
-All E-girl avatars drink
-All Booth models drink
-All Gumroad models drink
-Everyone who's avatar is over 150Mb (texture memory), take 4 drink
-Everyone who's avatar is between 110Mb and 150Mb (texture memory), take 3 drink
-Everyone who's avatar is between 75Mb and 110Mb (texture memory), take 2 drink
-Everyone who's avatar is between 40Mb and 75Mb (texture memory), take 1 drink
-Everyone who's avatar is under 40Mb (texture memory), give 5 drinks
-Everyone who is wearing any of the Godfall avatars, take 4 drinks
-All avatars with a follower/pet drink
-Make a random animal sound, first one to guess it can give a drink
-Take a pure shot
-Pick someone to do a pure shot
-Everyone takes as much drinks as continents they have been to
-Everyone who has done something lewd with someone in the room drinks
-Take as much drinks as there are people playing, divided by 2
-If your avatar can do a backflip, give 2 drinks
-Everyone drinks that did not do so last turn
-Everyone who has their Discord in the bio drinks
-Everyone who has at least 1 similar letter in their name drinks with you
-Everyone drinks 1 for each ex they have
-Everyone who is single takes a drink
-Everyone who is in a relationship takes a drink
-Guess someones kink, if you are correct they drink, if not you drink
-Rhyme time, the person who messes up drinks
-Keep a drink in your mouth and don't swallow it the next person had their drink
-Drink and spin again
-Give a drink and spin again
-Choose if you want spin again, but drinks for the next prompt are dubble
-Toggle off 1 piece of clothing, or drink 6
-Everyone takes a drink if there are 2 people with the same avatar
-Play rock paper scissors with someone, winner gives a dink
-Drink some water :)
-Challenge someone to emptying a drink, loser drinks double on their next prompt
-Anyone who is drinking beer, take a drink
-Anyone who is drinking vodka, take a drink
-Anyone who is drinking whisky, take a drink
-Anyone who is drinking rum, take a drink
-If your drink is cold, give 1 drink
-If your drink is less than half full, empty it
-Anyone who has black on their avatar drinks
-Anyone who has white on their avatar drinks
-Anyone who has orange on their avatar drinks
-Anyone who has purple on their avatar drinks
-Anyone who has yellow on their avatar drinks
-Anyone who has green on their avatar drinks
-Anyone who has blue on their avatar drinks
-Anyone who has red on their avatar drinks
-Anyone who is on green status, give 1 drink
-Anyone who is on orange status, take 2 drinks
-Anyone who is from The Netherlands takes 2 drinks
-Anyone who is from Germany takes 2 drinks
-Anyone who is from Austria takes 2 drinks
-Anyone who is from Belgium takes 2 drinks
-Anyone who is from Bulgaria takes 2 drinks
-Anyone who is from Denmark takes 2 drinks
-Anyone who is from Czech Republic takes 2 drinks
-Anyone who is from Finland takes 2 drinks
-Anyone who is from United Kingdom takes 2 drinks
-Anyone who is from Norway takes 2 drinks
-Anyone who is from France takes 2 drinks
-Anyone who is from Greece takes 2 drinks
-Anyone who is from Hungary takes 2 drinks
-Anyone who is from Ireland takes 2 drinks
-Anyone who is from Italy takes 2 drinks
-Anyone who is from Luxembourg takes 2 drinks
-Anyone who is from Poland takes 2 drinks
-Anyone who is from Portugal takes 2 drinks
-Anyone who is from Spain takes 2 drinks
-Anyone who is from Sweden takes 2 drinks
-Anyone who is from United States takes 2 drinks
-Anyone who is from Canada takes 2 drinks
-Anyone who is from Mexico takes 2 drinks
-Anyone who is from Brazil takes 2 drinks
-Anyone who is from Japan takes 2 drinks
-Anyone who is from Australia takes 2 drinks
-Anyone who has a public world drinks
-Anyone who does not have a public world drinks
-Anyone who has ever puked from alcohol take a drink
-Start a whirlpool: everyone keeps drinking as long as you drink
-Start a waterfall: you can only stop drinking if the player before you stopped
-Who in the room would you marry, fuck, kill?
-Give someone in the room a kiss
-Give someone in the room a lick
-Put a ice cube in your underwear
-Tell 2 truths and 1 lie
-Give someone your best pickup line
-Give someone your worst pickup line
-Anyone who has ever broken up with someone over text drinks 3
-Pick up to 2 people to drink with you
-Pick up to 3 people to drink with you
-Pick up to 4 people to drink with you
-Anyone who has numbers in their name drinks
-Anyone who has no numbers in their name dinks
-Everyone takes a drink for each person they are simping for
-Everyone takes a drink for each person that simps for them
-Read out the last dirty text you sent to someone
-Perform 10 pushups on the table
-Perform 10 squads on the table
-Perform 10 crunches on the table
-Rate the person standing in front of you ;)
-Pick someone, you both do your best moan. The group decides who wins, looser finishes their drink
-Everyone who played VRchat for more than 10k hours, drink 10
-Everyone who played VRchat between 9k and 10k hours, drink 9
-Everyone who played VRchat between 8k and 9k hours, drink 8
-Everyone who played VRchat between 7k and 8k hours, drink 7
-Everyone who played VRchat between 6k and 7k hours, drink 6
-Everyone who played VRchat between 5k and 6k hours, drink 5
-Everyone who played VRchat between 4k and 5k hours, drink 4
-Everyone who played VRchat between 3k and 4k hours, drink 3
-Everyone who played VRchat between 2k and 3k hours, drink 2
-Everyone who played VRchat between 1k and 2k hours, drink 1
-Everyone who played VRchat between 0 and 1k hours, give a drink
-Perform a short lapdance to the player on your right
-Perform a short twerk session on top of the table
-Take drinks with your non-dominant hand for 1 round
-Take drinks with both of your hands for 1 round
-Take drinks with only 1 hand for 1 round
-Yell out the first word that comes to your mind
-If you are wearing full body, rotate your belt 180 degrees for 1 turn
-If you are wearing full body, swap your feet trackers for 1 round
-Tell a joke, if nobody laughs you take a drink
-Tell a sad story to the group
-Tell a happy story to the group
-Tell a lewd story to the group
-You can only whisper for 1 round
-Impersonate someone in the group, if they guess correctly you can give a drink
-Take a drink, gargle it in your mouth and than swallow it
-Perform a jump IRL at the same time as in VR
-Thank Cthulhu for the bountiful amount of drinks you and your friends are receiving, whole group cheers after
-Start drinking until you have 1 drink left in your glass
-Everyone takes 1 drink for each social media platform they are on
-Everyone takes 1 drink for each social media platform you are on
-Switch into a default VRchat avatar for 1 round
-Switch places with someone
-Take a drink if you ever pretended to finish with someone
-Change your satus to: I did an oopsie
-Everyone who had Unity crash on them takes a drink
-Everyone who had Blender crash on them takes a drink
-Everyone who has ever been denied takes a drink
-Switch into your lewdest avatar for 1 round
-Perform short a "roses are red" poem to someone
-Blow someone a kiss, they take a drink
-Recite a part of "UwU what's this?" lyrics for the group
-Drink the amount the group decides together
-Drink with the 3 people across of you
-Do a Fortnite dance for 5 seconds on the table
-Everyone takes 1 drink for each Lovense toy they own
-Everyone who is currently in a loli avatar drinks
-If the world creator is playing the game, cheers and take 2 drinks
-Anyone who is sluring their words, they drinks some water
-All the boomers take a drink
-Everyone who has a drivers licence drinks
-Everyone who drives on the "right" side of the road drinks ;)
-Anyone who is from Slovakia takes 2 drinks
-Anyone who started questioning their sexuality after playing VRchat dinks
-Everyone who has ever been a Knuckles avatar takes 2 drinks
-Everyone who has ever lost money gambling takes a drink
-Everyone who has ever put someone to sleep in VRchat gives a dink
-Everyone who has ever fallen asleep in VRchat takes a drink
-Everyone who has ever spend more than 50 euro on a Gatcha game drink
-If you ever gotten "water" damage on your VR gear, take a drink
-Go sit on someones lap for 1 round
-Pick someone to sit on your lap for 1 round
-You have to include a "meow" in every sentence you make for 1 round
-Everyone who has been in VRchat since 2017 give 1 drink
-Everyone who has been in VRchat since 2018 take 1 drink
-Everyone who has been in VRchat since 2019 take 2 drinks
-Everyone who has been in VRchat since 2020 take 3 drinks
-Everyone who has been in VRchat since 2021 take 4 drinks
+Never have I ever gone bungee jumping.
+Never have I ever ridden a motorcycle.
+Never have I ever traveled to a different continent.
+Never have I ever tried sushi.
+Never have I ever sung karaoke in public.
+Never have I ever gone scuba diving.
+Never have I ever been to a music festival.
+Never have I ever climbed a mountain.
+Never have I ever been in a hot air balloon.
+Never have I ever gone skinny dipping.
+Never have I ever ridden a horse.
+Never have I ever tried rock climbing.
+Never have I ever gone camping in the wilderness.
+Never have I ever been on a blind date.
+Never have I ever met a celebrity.
+Never have I ever been in a helicopter.
+Never have I ever tried surfing.
+Never have I ever gone on a road trip.
+Never have I ever gone ziplining.
+Never have I ever eaten a whole pizza by myself.
+Never have I ever gone snowboarding.
+Never have I ever gone fishing.
+Never have I ever run a marathon.
+Never have I ever been in a food fight.
+Never have I ever learned to play a musical instrument.
+Never have I ever been to a wedding.
+Never have I ever gone on a cruise.
+Never have I ever dyed my hair a wild color.
+Never have I ever been on a roller coaster.
+Never have I ever gone snorkeling.
+Never have I ever been on a blind date.
+Never have I ever gone salsa dancing.
+Never have I ever tried a food challenge.
+Never have I ever gone ice skating.
+Never have I ever gone parasailing.
+Never have I ever volunteered for a charity.
+Never have I ever ridden a jet ski.
+Never have I ever been to a costume party.
+Never have I ever gone horseback riding on the beach.
+Never have I ever eaten exotic food.
+Never have I ever gone paintballing.
+Never have I ever slept under the stars.
+Never have I ever gone geocaching.
+Never have I ever been in a talent show.
+Never have I ever gone to a comedy club.
+Never have I ever gone white-water rafting.
+Never have I ever taken a cooking class.
+Never have I ever gone spelunking (cave exploring).
+Never have I ever visited a haunted house.
+Never have I ever gone wine tasting.
+Never have I ever ridden a mechanical bull.
+Never have I ever gone to a spa.
+Never have I ever gone to a casino.
+Never have I ever gone to a music concert alone.
+Never have I ever gone to a karaoke bar.
+Never have I ever taken a road trip with friends.
+Never have I ever been in a car accident.
+Never have I ever gone on a blind date.
+Never have I ever gone skydiving.
+Never have I ever gone on a camping trip with friends.
+Never have I ever gone hot air ballooning.
+Never have I ever gone hiking in the desert.
+Never have I ever gone on a spontaneous trip.
+Never have I ever gone rock climbing.
+Never have I ever gone zip-lining through a forest.
+Never have I ever gone river tubing.
+Never have I ever tried deep-sea fishing.
+Never have I ever gone on a cruise.
+Never have I ever gone snowmobiling.
+Never have I ever gone horseback riding.
+Never have I ever tried bobsledding.
+Never have I ever gone glacier hiking.
+Never have I ever ridden a camel.
+Never have I ever gone on a gondola ride.
+Never have I ever tried dog sledding.
+Never have I ever gone hang gliding.
+Never have I ever gone on a safari.
+Never have I ever ridden in a hot air balloon.
+Never have I ever gone kayaking in the ocean.
+Never have I ever tried wind surfing.
+Never have I ever gone scuba diving in a shipwreck.
+Never have I ever tried sandboarding.
+Never have I ever gone snorkeling in a coral reef.
+Never have I ever gone white-water kayaking.
+Never have I ever tried paragliding.
+Never have I ever gone cliff jumping.
+Never have I ever tried wakeboarding.
+Never have I ever gone sailing in the open sea.
+Never have I ever tried paddleboarding.
+Never have I ever gone mountain biking.
+Never have I ever tried cave diving.
+Never have I ever gone shark cage diving.
+Never have I ever tried windsurfing.
+Never have I ever gone ice climbing.
+Never have I ever gone hang gliding.
+Never have I ever gone BASE jumping.
+Never have I ever gone water skiing.
+Never have I ever gone canyoneering.
+Never have I ever tried kite surfing.
+Never have I ever gone skydiving at night.
+Never have I ever eaten a whole cake in one sitting.
+Never have I ever gone camping in the rain.
+Never have I ever gotten a tattoo.
+Never have I ever been on a blind date set up by a family member.
+Never have I ever danced in the rain.
+Never have I ever gotten lost in a foreign country.
+Never have I ever had a pen pal.
+Never have I ever tried a bizarre food combination (e.g., ketchup on ice cream).
+Never have I ever sung in the shower.
+Never have I ever gone on a spontaneous road trip.
+Never have I ever gotten a speeding ticket.
+Never have I ever gone on a long-distance train journey.
+Never have I ever been in a food eating contest.
+Never have I ever had a near-death experience.
+Never have I ever gone on a blind date set up by a friend.
+Never have I ever written a love letter.
+Never have I ever ridden a unicycle.
+Never have I ever been in a helicopter.
+Never have I ever been on a hot air balloon ride.
+Never have I ever gone to a drive-in movie.
+Never have I ever been on a double date.
+Never have I ever stayed up all night playing video games.
+Never have I ever skipped school or work to watch a movie.
+Never have I ever had a surprise party thrown for me.
+Never have I ever had a pet fish.
+Never have I ever been on a scavenger hunt.
+Never have I ever tried meditation.
+Never have I ever gone on a picnic.
+Never have I ever been in a flash mob.
+Never have I ever sung in a choir.
+Never have I ever gone on a blind date set up by an app.
+Never have I ever had a crush on a teacher.
+Never have I ever tried a vegetarian or vegan diet.
+Never have I ever taken a selfie with a celebrity cutout.
+Never have I ever gone to a midnight movie premiere.
+Never have I ever ridden a Segway.
+Never have I ever played paintball.
+Never have I ever eaten insects.
+Never have I ever attended a masquerade ball.
+Never have I ever tried acupuncture.
+Never have I ever ridden a mechanical bull.
+Never have I ever been to a murder mystery dinner.
+Never have I ever gone geocaching.
+Never have I ever tried knitting or crocheting.
+Never have I ever owned a pet reptile.
+Never have I ever played a prank on a sibling.
+Never have I ever gone to a Renaissance fair.
+Never have I ever tried a sensory deprivation tank.
+Never have I ever been on a pub crawl.
+Never have I ever ridden a tandem bicycle.
+Never have I ever gone to a speed dating event.
+Never have I ever tried indoor skydiving.
+Never have I ever sung karaoke on a cruise ship.
+Never have I ever gone ghost hunting.
+Never have I ever stayed in an all-inclusive resort.
+Never have I ever tried a meditation retreat.
+Never have I ever been on a blind date set up by a coworker.
+Never have I ever ridden a horse bareback.
+Never have I ever been to a silent disco.
+Never have I ever tried archery.
+Never have I ever taken a dance class.
+Never have I ever tried stand-up comedy.
+Never have I ever participated in a 5K run.
+Never have I ever tried a sensory dining experience.
+Never have I ever played laser tag.
+Never have I ever been to a magic show.
+Never have I ever tried acroyoga.
+Never have I ever ridden a camel.
+Never have I ever been on a Segway tour.
+Never have I ever tried speed skating.
+Never have I ever gone to a trampoline park.
+Never have I ever taken a self-defense class.
+Never have I ever tried indoor rock climbing.
+Never have I ever been to a hypnotist show.
+Never have I ever tried paddleboard yoga.
+Never have I ever been to a drum circle.
+Never have I ever tried a spin class.
+Never have I ever gone to a poetry reading.
+Never have I ever tried an escape room.
+Never have I ever ridden a tandem kayak.
+Never have I ever tried aerial silks.
+Never have I ever been to a roller derby match.
+Never have I ever tried stand-up paddleboarding.
+Never have I ever been to a storytelling event.
+Never have I ever tried a circus skills workshop.
+Never have I ever ridden a hoverboard.
+Never have I ever been to a chili cook-off.
+Never have I ever tried ax throwing.
+Never have I ever been to a wine and painting class.
+Never have I ever tried sand sculpting.
+Never have I ever been to a food truck festival.
+Never have I ever tried curling.
+Never have I ever been to a puppet show.
+Never have I ever tried indoor surfing.
+Never have I ever been to a silent meditation retreat.
+Never have I ever tried indoor trampolining.
+Never have I ever been to a hula hoop workshop.
+Never have I ever tried an improv comedy class.
+Never have I ever been to a kite festival.
+Never have I ever tried acrobatics.
+Never have I ever been to a costume party.
+Never have I ever ridden a roller coaster.
+Never have I ever tried indoor skydiving.
+Never have I ever sung karaoke in front of a large audience.
+Never have I ever traveled alone.
+Never have I ever gone skinny dipping in the ocean.
+Never have I ever gone on a blind date.
+Never have I ever eaten a ghost pepper.
+Never have I ever been on a cruise.
+Never have I ever taken a spontaneous road trip.
+Never have I ever tried sushi.
+Never have I ever been on a helicopter ride.
+Never have I ever gone on a hot air balloon ride.
+Never have I ever participated in a flash mob.
+Never have I ever danced in the pouring rain.
+Never have I ever gone camping in the wilderness.
+Never have I ever ridden a horse.
+Never have I ever been to a music festival.
+Never have I ever gone on a picnic.
+Never have I ever tried bungee jumping.
+Never have I ever climbed a mountain.
+Never have I ever been to a comedy club.
+Never have I ever taken a cooking class.
+Never have I ever gone on a blind date set up by a friend.
+Never have I ever tried surfing.
+Never have I ever gone scuba diving.
+Never have I ever ridden a zip line.
+Never have I ever tried rock climbing.
+Never have I ever gone fishing.
+Never have I ever ridden a jet ski.
+Never have I ever been on a road trip with friends.
+Never have I ever gone snorkeling.
+Never have I ever gone ziplining.
+Never have I ever tried snowboarding.
+Never have I ever gone whitewater rafting.
+Never have I ever taken a salsa dancing class.
+Never have I ever gone horseback riding on the beach.
+Never have I ever gone to a wine tasting.
+Never have I ever ridden a motorcycle.
+Never have I ever gone ice skating.
+Never have I ever gone on a blind date set up by a family member.
+Never have I ever tried indoor rock climbing.
+Never have I ever been in a food fight.
+Never have I ever learned to play a musical instrument.
+Never have I ever tried a new sport.
+Never have I ever been to a wedding.
+Never have I ever taken a hot air balloon ride.
+Never have I ever tried an exotic cuisine.
+Never have I ever gone paintballing.
+Never have I ever been on a double date.
+Never have I ever ridden a mechanical bull.
+Never have I ever gone camping with friends.
+Never have I ever gone snowmobiling.
+Never have I ever tried bobsledding.
+Never have I ever gone glacier hiking.
+Never have I ever gone on a spontaneous trip.
+Never have I ever tried kite surfing.
+Never have I ever gone geocaching.
+Never have I ever been to a murder mystery dinner.
+Never have I ever taken a dance class.
+Never have I ever tried archery.
+Never have I ever ridden a Segway.
+Never have I ever been to a speed dating event.
+Never have I ever tried a new hairstyle or hair color.
+Never have I ever been in a flash mob.
+Never have I ever tried salsa dancing.
+Never have I ever participated in a 5K run.
+Never have I ever gone on a blind date set up by an app.
+Never have I ever ridden a tandem bicycle.
+Never have I ever tried an extreme sport.
+Never have I ever gone spelunking (cave exploring).
+Never have I ever gone wakeboarding.
+Never have I ever tried stand-up comedy.
+Never have I ever ridden a camel.
+Never have I ever gone river tubing.
+Never have I ever tried a food challenge.
+Never have I ever taken a cooking class.
+Never have I ever been to a silent disco.
+Never have I ever gone on a pub crawl.
+Never have I ever tried mountain biking.
+Never have I ever gone to a poetry reading.
+Never have I ever ridden a tandem kayak.
+Never have I ever tried stand-up paddleboarding.
+Never have I ever been to a storytelling event.
+Never have I ever tried a sensory deprivation tank.
+Never have I ever been to a magic show.
+Never have I ever tried acroyoga.
+Never have I ever gone roller skating.
+Never have I ever tried speed skating.
+Never have I ever been to a karaoke bar.
+Never have I ever tried a sensory dining experience.
+Never have I ever gone to a wine and painting class.
+Never have I ever ridden a hoverboard.
+Never have I ever been to a chili cook-off.
+Never have I ever tried ax throwing.
+Never have I ever tried indoor surfing.
+Never have I ever been to a silent meditation retreat.
+Never have I ever ridden a bicycle built for two.
+Never have I ever tried circus skills.
+Never have I ever been on a submarine tour.
+Never have I ever gone parasailing.
+Never have I ever gone zip-lining through a rainforest.
+Never have I ever been on a blind date set up by a coworker.
+Never have I ever tried karaoke in a language I don't speak fluently.
+Never have I ever been in a talent show.
+Never have I ever gone ghost hunting in a haunted place.
+Never have I ever gone skinny dipping in a lake.
+Never have I ever tried mountain climbing.
+Never have I ever taken a spontaneous trip to a foreign country.
+Never have I ever eaten a meal cooked by a celebrity chef.
+Never have I ever been to a surprise party that was meant for someone else.
+Never have I ever ridden a mechanical bull at a country fair.
+Never have I ever tried stand-up paddleboarding in the ocean.
+Never have I ever gone on a blind date set up by an online dating app.
+Never have I ever played a musical instrument in a band.
+Never have I ever gone camping in the desert.
+Never have I ever ridden a Segway on a city tour.
+Never have I ever tried a food from a different culture that I couldn't pronounce.
+Never have I ever taken part in a color run.
+Never have I ever gone to a yoga retreat.
+Never have I ever gone on a blind date set up by a stranger.
+Never have I ever tried surfing in the ocean.
+Never have I ever been in a flash mob in a public place.
+Never have I ever ridden a roller coaster that goes upside down.
+Never have I ever tried a circus trapeze class.
+Never have I ever been in a hot air balloon during sunrise.
+Never have I ever gone camping in the mountains.
+Never have I ever tried a new hairstyle or hair color that was drastically different.
+Never have I ever gone on a blind date set up by a family member.
+Never have I ever been to a rooftop party.
+Never have I ever tried indoor surfing on a simulator.
+Never have I ever been to a psychic or fortune teller.
+Never have I ever ridden a tandem bike with a friend.
+Never have I ever taken part in a polar plunge (jumping into icy water).
+Never have I ever gone hiking in a rainforest.
+Never have I ever tried acrobatic yoga with a partner.
+Never have I ever been to a haunted house attraction.
+Never have I ever gone wine tasting at a vineyard.
+Never have I ever ridden a camel in the desert.
+Never have I ever gone on a hot air balloon ride at sunset.
+Never have I ever tried indoor skydiving in a vertical wind tunnel.
+Never have I ever taken a salsa dancing class.
+Never have I ever gone mountain biking on a rugged trail.
+Never have I ever tried a virtual reality experience.
+Never have I ever been to a masquerade ball in formal attire.
+Never have I ever gone paragliding over a scenic landscape.
+Never have I ever tried paddleboard yoga on a calm lake.
+Never have I ever gone river tubing down a lazy river.
+Never have I ever tried a sensory deprivation tank for relaxation.
+Never have I ever participated in a synchronized swimming performance.
+Never have I ever gone curling on an ice rink.
+Never have I ever tried snowmobiling in a snowy wilderness.
+Never have I ever been on a scenic helicopter tour.
+Never have I ever tried rollerblading in a park.
+Never have I ever gone speed dating to meet new people.
+Never have I ever tried playing the didgeridoo.
+Never have I ever gone paddleboarding on a calm ocean.
+Never have I ever tried beekeeping to collect honey.
+Never have I ever gone mountain climbing with ropes and harnesses.
+Never have I ever tried cross-country skiing in a snowy forest.
+Never have I ever gone to a silent disco party.
+Never have I ever tried archery at an archery range.
+Never have I ever gone snowshoeing in deep snow.
+Never have I ever tried skateboarding at a skate park.
+Never have I ever gone sailing on a sailboat.
+Never have I ever tried indoor trampolining at a trampoline park.
+Never have I ever gone kayaking in a bioluminescent bay.
+Never have I ever tried acroyoga on the beach.
+Never have I ever gone kite surfing in the ocean.
+Never have I ever tried scuba diving in a coral reef.
+Never have I ever gone rock climbing on natural rock formations.
+Never have I ever tried ice climbing on frozen waterfalls.
+Never have I ever gone white-water kayaking in rapids.
+Never have I ever tried sandboarding down desert dunes.
+Never have I ever gone windsurfing on a windy day.
+Never have I ever tried BASE jumping from a cliff.
+Never have I ever gone canyoneering in narrow slot canyons.
+Never have I ever tried parahawking (paragliding with trained birds of prey).
+Never have I ever gone heli-skiing in remote snowy mountains.
+Never have I ever tried slacklining between two trees.
+Never have I ever gone cave diving in underwater caves.
+Never have I ever tried shark cage diving to see great white sharks.
+Never have I ever gone on a motorcycle road trip.
+Never have I ever tried ice yachting on a frozen lake.
+Never have I ever gone sand sculpting on the beach.
+Never have I ever tried deep-sea fishing in the open ocean.
+Never have I ever gone snorkeling with sea turtles.
+Never have I ever tried parasnowboarding in the backcountry.
+Never have I ever gone ice canoeing on a frozen river.
+Never have I ever tried underwater photography while diving.
+Never have I ever gone hot air ballooning over a canyon.
+Never have I ever tried glacier hiking in a remote area.
+Never have I ever gone snow kiting on a frozen lake.
+Never have I ever tried paddleboard yoga in the Caribbean.
+Never have I ever gone sandcastle competition at a beach festival.
+Never have I ever tried free diving without scuba equipment.
+Never have I ever gone kitesurfing in tropical waters.
+Never have I ever tried jet surfing on a motorized surfboard.
+Never have I ever gone underwater cave snorkeling.
+Never have I ever tried kite foiling on a foilboard.
