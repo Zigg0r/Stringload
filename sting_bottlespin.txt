@@ -1,0 +1,259 @@
+Everyone takes a drink whose name starts with A
+Everyone takes a drink whose name starts with B
+Everyone takes a drink whose name starts with C
+Everyone takes a drink whose name starts with D
+Everyone takes a drink whose name starts with E
+Everyone takes a drink whose name starts with F
+Everyone takes a drink whose name starts with G
+Everyone takes a drink whose name starts with H
+Everyone takes a drink whose name starts with I
+Everyone takes a drink whose name starts with J
+Everyone takes a drink whose name starts with K
+Everyone takes a drink whose name starts with L
+Everyone takes a drink whose name starts with M
+Everyone takes a drink whose name starts with N
+Everyone takes a drink whose name starts with O
+Everyone takes a drink whose name starts with P
+Everyone takes a drink whose name starts with Q
+Everyone takes a drink whose name starts with R
+Everyone takes a drink whose name starts with S
+Everyone takes a drink whose name starts with T
+Everyone takes a drink whose name starts with U
+Everyone takes a drink whose name starts with V
+Everyone takes a drink whose name starts with W
+Everyone takes a drink whose name starts with X
+Everyone takes a drink whose name starts with Y
+Everyone takes a drink whose name starts with Z
+Everyone who has a 0 in their age drinks
+Everyone who has a 1 in their age drinks
+Everyone who has a 2 in their age drinks
+Everyone who has a 3 in their age drinks
+Everyone who has a 4 in their age drinks
+Everyone who has a 5 in their age drinks
+Everyone who has a 6 in their age drinks
+Everyone who has a 7 in their age drinks
+Everyone who has a 8 in their age drinks
+Everyone who has a 9 in their age drinks
+Take 1 drink
+Take 2 drinks
+Take 3 drinks
+Take 4 drinks
+Take 5 drinks
+Give away 1 drink
+Give away 2 drinks
+Give away 3 drinks
+Give away 4 drinks
+Give away 5 drinks
+Take 1 drink, give 1 drink
+Take 1 drink, give 2 drinks
+Take 2 drinks, give 1 drink
+Pick a drinking budy, you both drink the amount you suggest
+Pick a drinking budy, you both drink the amount they suggest
+Drink with the person to your left and right
+The person to your left and right drink
+The person across of you drinks
+Finish half of your drink
+Finish your drink
+Fill up your drink again
+Everyone fills up their drink again
+Pick 2 people, they both finish half their drink
+The person after you picks how much you drink, they drink half that before they spin
+404: drink 4
+All male avatars drink
+All female avatars drink
+All guys drink
+All girls drink
+Drink as much drinks as you want, everyone else drinks half that
+Oldest person in the room drinks
+Youngest person in the room drinks
+Tallest avatar drinks
+Shortest avatar drinks
+Longest username drinks
+Shortest username drinks
+Drink again if you drank something last turn
+Everyoone in the room drinks
+Everyone drinks, except for you :(
+Anyone smaller than you drinks
+Anyone taller than you drinks
+All avatars with animal ears drink
+All avatars with a tail drink
+All avatars wearing shoes drink
+All avatars that are NSFW drink
+All avatars with lights on them drink
+All avatars wearing glasses drink
+All avatars wearing thigh highs drink
+All furry avatars drink
+All inanimate avatars drink
+All avatars with emission on them drink
+All avatars with AudioLink on them drink
+All E-boy avatars drink
+All E-girl avatars drink
+All Booth models drink
+All Gumroad models drink
+Everyone who's avatar is over 150Mb (texture memory), take 4 drink
+Everyone who's avatar is between 110Mb and 150Mb (texture memory), take 3 drink
+Everyone who's avatar is between 75Mb and 110Mb (texture memory), take 2 drink
+Everyone who's avatar is between 40Mb and 75Mb (texture memory), take 1 drink
+Everyone who's avatar is under 40Mb (texture memory), give 5 drinks
+Everyone who is wearing any of the Godfall avatars, take 4 drinks
+All avatars with a follower/pet drink
+Make a random animal sound, first one to guess it can give a drink
+Take a pure shot
+Pick someone to do a pure shot
+Everyone takes as much drinks as continents they have been to
+Everyone who has done something lewd with someone in the room drinks
+Take as much drinks as there are people playing, divided by 2
+If your avatar can do a backflip, give 2 drinks
+Everyone drinks that did not do so last turn
+Everyone who has their Discord in the bio drinks
+Everyone who has at least 1 similar letter in their name drinks with you
+Everyone drinks 1 for each ex they have
+Everyone who is single takes a drink
+Everyone who is in a relationship takes a drink
+Guess someones kink, if you are correct they drink, if not you drink
+Rhyme time, the person who messes up drinks
+Keep a drink in your mouth and don't swallow it the next person had their drink
+Drink and spin again
+Give a drink and spin again
+Choose if you want spin again, but drinks for the next prompt are dubble
+Toggle off 1 piece of clothing, or drink 6
+Everyone takes a drink if there are 2 people with the same avatar
+Play rock paper scissors with someone, winner gives a dink
+Drink some water :)
+Challenge someone to emptying a drink, loser drinks double on their next prompt
+Anyone who is drinking beer, take a drink
+Anyone who is drinking vodka, take a drink
+Anyone who is drinking whisky, take a drink
+Anyone who is drinking rum, take a drink
+If your drink is cold, give 1 drink
+If your drink is less than half full, empty it
+Anyone who has black on their avatar drinks
+Anyone who has white on their avatar drinks
+Anyone who has orange on their avatar drinks
+Anyone who has purple on their avatar drinks
+Anyone who has yellow on their avatar drinks
+Anyone who has green on their avatar drinks
+Anyone who has blue on their avatar drinks
+Anyone who has red on their avatar drinks
+Anyone who is on green status, give 1 drink
+Anyone who is on orange status, take 2 drinks
+Anyone who is from The Netherlands takes 2 drinks
+Anyone who is from Germany takes 2 drinks
+Anyone who is from Austria takes 2 drinks
+Anyone who is from Belgium takes 2 drinks
+Anyone who is from Bulgaria takes 2 drinks
+Anyone who is from Denmark takes 2 drinks
+Anyone who is from Czech Republic takes 2 drinks
+Anyone who is from Finland takes 2 drinks
+Anyone who is from United Kingdom takes 2 drinks
+Anyone who is from Norway takes 2 drinks
+Anyone who is from France takes 2 drinks
+Anyone who is from Greece takes 2 drinks
+Anyone who is from Hungary takes 2 drinks
+Anyone who is from Ireland takes 2 drinks
+Anyone who is from Italy takes 2 drinks
+Anyone who is from Luxembourg takes 2 drinks
+Anyone who is from Poland takes 2 drinks
+Anyone who is from Portugal takes 2 drinks
+Anyone who is from Spain takes 2 drinks
+Anyone who is from Sweden takes 2 drinks
+Anyone who is from United States takes 2 drinks
+Anyone who is from Canada takes 2 drinks
+Anyone who is from Mexico takes 2 drinks
+Anyone who is from Brazil takes 2 drinks
+Anyone who is from Japan takes 2 drinks
+Anyone who is from Australia takes 2 drinks
+Anyone who has a public world drinks
+Anyone who does not have a public world drinks
+Anyone who has ever puked from alcohol take a drink
+Start a whirlpool: everyone keeps drinking as long as you drink
+Start a waterfall: you can only stop drinking if the player before you stopped
+Who in the room would you marry, fuck, kill?
+Give someone in the room a kiss
+Give someone in the room a lick
+Put a ice cube in your underwear
+Tell 2 truths and 1 lie
+Give someone your best pickup line
+Give someone your worst pickup line
+Anyone who has ever broken up with someone over text drinks 3
+Pick up to 2 people to drink with you
+Pick up to 3 people to drink with you
+Pick up to 4 people to drink with you
+Anyone who has numbers in their name drinks
+Anyone who has no numbers in their name dinks
+Everyone takes a drink for each person they are simping for
+Everyone takes a drink for each person that simps for them
+Read out the last dirty text you sent to someone
+Perform 10 pushups on the table
+Perform 10 squads on the table
+Perform 10 crunches on the table
+Rate the person standing in front of you ;)
+Pick someone, you both do your best moan. The group decides who wins, looser finishes their drink
+Everyone who played VRchat for more than 10k hours, drink 10
+Everyone who played VRchat between 9k and 10k hours, drink 9
+Everyone who played VRchat between 8k and 9k hours, drink 8
+Everyone who played VRchat between 7k and 8k hours, drink 7
+Everyone who played VRchat between 6k and 7k hours, drink 6
+Everyone who played VRchat between 5k and 6k hours, drink 5
+Everyone who played VRchat between 4k and 5k hours, drink 4
+Everyone who played VRchat between 3k and 4k hours, drink 3
+Everyone who played VRchat between 2k and 3k hours, drink 2
+Everyone who played VRchat between 1k and 2k hours, drink 1
+Everyone who played VRchat between 0 and 1k hours, give a drink
+Perform a short lapdance to the player on your right
+Perform a short twerk session on top of the table
+Take drinks with your non-dominant hand for 1 round
+Take drinks with both of your hands for 1 round
+Take drinks with only 1 hand for 1 round
+Yell out the first word that comes to your mind
+If you are wearing full body, rotate your belt 180 degrees for 1 turn
+If you are wearing full body, swap your feet trackers for 1 round
+Tell a joke, if nobody laughs you take a drink
+Tell a sad story to the group
+Tell a happy story to the group
+Tell a lewd story to the group
+You can only whisper for 1 round
+Impersonate someone in the group, if they guess correctly you can give a drink
+Take a drink, gargle it in your mouth and than swallow it
+Perform a jump IRL at the same time as in VR
+Thank Cthulhu for the bountiful amount of drinks you and your friends are receiving, whole group cheers after
+Start drinking until you have 1 drink left in your glass
+Everyone takes 1 drink for each social media platform they are on
+Everyone takes 1 drink for each social media platform you are on
+Switch into a default VRchat avatar for 1 round
+Switch places with someone
+Take a drink if you ever pretended to finish with someone
+Change your satus to: I did an oopsie
+Everyone who had Unity crash on them takes a drink
+Everyone who had Blender crash on them takes a drink
+Everyone who has ever been denied takes a drink
+Switch into your lewdest avatar for 1 round
+Perform short a "roses are red" poem to someone
+Blow someone a kiss, they take a drink
+Recite a part of "UwU what's this?" lyrics for the group
+Drink the amount the group decides together
+Drink with the 3 people across of you
+Do a Fortnite dance for 5 seconds on the table
+Everyone takes 1 drink for each Lovense toy they own
+Everyone who is currently in a loli avatar drinks
+If the world creator is playing the game, cheers and take 2 drinks
+Anyone who is sluring their words, they drinks some water
+All the boomers take a drink
+Everyone who has a drivers licence drinks
+Everyone who drives on the "right" side of the road drinks ;)
+Anyone who is from Slovakia takes 2 drinks
+Anyone who started questioning their sexuality after playing VRchat dinks
+Everyone who has ever been a Knuckles avatar takes 2 drinks
+Everyone who has ever lost money gambling takes a drink
+Everyone who has ever put someone to sleep in VRchat gives a dink
+Everyone who has ever fallen asleep in VRchat takes a drink
+Everyone who has ever spend more than 50 euro on a Gatcha game drink
+If you ever gotten "water" damage on your VR gear, take a drink
+Go sit on someones lap for 1 round
+Pick someone to sit on your lap for 1 round
+You have to include a "meow" in every sentence you make for 1 round
+Everyone who has been in VRchat since 2017 give 1 drink
+Everyone who has been in VRchat since 2018 take 1 drink
+Everyone who has been in VRchat since 2019 take 2 drinks
+Everyone who has been in VRchat since 2020 take 3 drinks
+Everyone who has been in VRchat since 2021 take 4 drinks
