@@ -1,400 +1,916 @@
-Never have I ever gone bungee jumping.
-Never have I ever ridden a motorcycle.
-Never have I ever traveled to a different continent.
-Never have I ever tried sushi.
-Never have I ever sung karaoke in public.
-Never have I ever gone scuba diving.
-Never have I ever been to a music festival.
-Never have I ever climbed a mountain.
-Never have I ever been in a hot air balloon.
-Never have I ever gone skinny dipping.
-Never have I ever ridden a horse.
-Never have I ever tried rock climbing.
-Never have I ever gone camping in the wilderness.
-Never have I ever been on a blind date.
-Never have I ever met a celebrity.
-Never have I ever been in a helicopter.
-Never have I ever tried surfing.
-Never have I ever gone on a road trip.
-Never have I ever gone ziplining.
-Never have I ever eaten a whole pizza by myself.
-Never have I ever gone snowboarding.
-Never have I ever gone fishing.
-Never have I ever run a marathon.
-Never have I ever been in a food fight.
-Never have I ever learned to play a musical instrument.
-Never have I ever been to a wedding.
-Never have I ever gone on a cruise.
-Never have I ever dyed my hair a wild color.
-Never have I ever been on a roller coaster.
-Never have I ever gone snorkeling.
-Never have I ever been on a blind date.
-Never have I ever gone salsa dancing.
-Never have I ever tried a food challenge.
-Never have I ever gone ice skating.
-Never have I ever gone parasailing.
-Never have I ever volunteered for a charity.
-Never have I ever ridden a jet ski.
-Never have I ever been to a costume party.
-Never have I ever gone horseback riding on the beach.
-Never have I ever eaten exotic food.
-Never have I ever gone paintballing.
-Never have I ever slept under the stars.
-Never have I ever gone geocaching.
-Never have I ever been in a talent show.
-Never have I ever gone to a comedy club.
-Never have I ever gone white-water rafting.
-Never have I ever taken a cooking class.
-Never have I ever gone spelunking (cave exploring).
-Never have I ever visited a haunted house.
-Never have I ever gone wine tasting.
-Never have I ever ridden a mechanical bull.
-Never have I ever gone to a spa.
-Never have I ever gone to a casino.
-Never have I ever gone to a music concert alone.
-Never have I ever gone to a karaoke bar.
-Never have I ever taken a road trip with friends.
-Never have I ever been in a car accident.
-Never have I ever gone on a blind date.
-Never have I ever gone skydiving.
-Never have I ever gone on a camping trip with friends.
-Never have I ever gone hot air ballooning.
-Never have I ever gone hiking in the desert.
-Never have I ever gone on a spontaneous trip.
-Never have I ever gone rock climbing.
-Never have I ever gone zip-lining through a forest.
-Never have I ever gone river tubing.
-Never have I ever tried deep-sea fishing.
-Never have I ever gone on a cruise.
-Never have I ever gone snowmobiling.
-Never have I ever gone horseback riding.
-Never have I ever tried bobsledding.
-Never have I ever gone glacier hiking.
-Never have I ever ridden a camel.
-Never have I ever gone on a gondola ride.
-Never have I ever tried dog sledding.
-Never have I ever gone hang gliding.
-Never have I ever gone on a safari.
-Never have I ever ridden in a hot air balloon.
-Never have I ever gone kayaking in the ocean.
-Never have I ever tried wind surfing.
-Never have I ever gone scuba diving in a shipwreck.
-Never have I ever tried sandboarding.
-Never have I ever gone snorkeling in a coral reef.
-Never have I ever gone white-water kayaking.
-Never have I ever tried paragliding.
-Never have I ever gone cliff jumping.
-Never have I ever tried wakeboarding.
-Never have I ever gone sailing in the open sea.
-Never have I ever tried paddleboarding.
-Never have I ever gone mountain biking.
-Never have I ever tried cave diving.
-Never have I ever gone shark cage diving.
-Never have I ever tried windsurfing.
-Never have I ever gone ice climbing.
-Never have I ever gone hang gliding.
-Never have I ever gone BASE jumping.
-Never have I ever gone water skiing.
-Never have I ever gone canyoneering.
-Never have I ever tried kite surfing.
-Never have I ever gone skydiving at night.
-Never have I ever eaten a whole cake in one sitting.
-Never have I ever gone camping in the rain.
-Never have I ever gotten a tattoo.
-Never have I ever been on a blind date set up by a family member.
-Never have I ever danced in the rain.
-Never have I ever gotten lost in a foreign country.
-Never have I ever had a pen pal.
-Never have I ever tried a bizarre food combination (e.g., ketchup on ice cream).
-Never have I ever sung in the shower.
-Never have I ever gone on a spontaneous road trip.
-Never have I ever gotten a speeding ticket.
-Never have I ever gone on a long-distance train journey.
-Never have I ever been in a food eating contest.
-Never have I ever had a near-death experience.
-Never have I ever gone on a blind date set up by a friend.
-Never have I ever written a love letter.
-Never have I ever ridden a unicycle.
-Never have I ever been in a helicopter.
-Never have I ever been on a hot air balloon ride.
-Never have I ever gone to a drive-in movie.
-Never have I ever been on a double date.
-Never have I ever stayed up all night playing video games.
-Never have I ever skipped school or work to watch a movie.
-Never have I ever had a surprise party thrown for me.
-Never have I ever had a pet fish.
-Never have I ever been on a scavenger hunt.
-Never have I ever tried meditation.
-Never have I ever gone on a picnic.
-Never have I ever been in a flash mob.
-Never have I ever sung in a choir.
-Never have I ever gone on a blind date set up by an app.
-Never have I ever had a crush on a teacher.
-Never have I ever tried a vegetarian or vegan diet.
-Never have I ever taken a selfie with a celebrity cutout.
-Never have I ever gone to a midnight movie premiere.
-Never have I ever ridden a Segway.
-Never have I ever played paintball.
-Never have I ever eaten insects.
-Never have I ever attended a masquerade ball.
-Never have I ever tried acupuncture.
-Never have I ever ridden a mechanical bull.
-Never have I ever been to a murder mystery dinner.
-Never have I ever gone geocaching.
-Never have I ever tried knitting or crocheting.
-Never have I ever owned a pet reptile.
-Never have I ever played a prank on a sibling.
-Never have I ever gone to a Renaissance fair.
-Never have I ever tried a sensory deprivation tank.
-Never have I ever been on a pub crawl.
-Never have I ever ridden a tandem bicycle.
-Never have I ever gone to a speed dating event.
-Never have I ever tried indoor skydiving.
-Never have I ever sung karaoke on a cruise ship.
-Never have I ever gone ghost hunting.
-Never have I ever stayed in an all-inclusive resort.
-Never have I ever tried a meditation retreat.
-Never have I ever been on a blind date set up by a coworker.
-Never have I ever ridden a horse bareback.
-Never have I ever been to a silent disco.
-Never have I ever tried archery.
-Never have I ever taken a dance class.
-Never have I ever tried stand-up comedy.
-Never have I ever participated in a 5K run.
-Never have I ever tried a sensory dining experience.
-Never have I ever played laser tag.
-Never have I ever been to a magic show.
-Never have I ever tried acroyoga.
-Never have I ever ridden a camel.
-Never have I ever been on a Segway tour.
-Never have I ever tried speed skating.
-Never have I ever gone to a trampoline park.
-Never have I ever taken a self-defense class.
-Never have I ever tried indoor rock climbing.
-Never have I ever been to a hypnotist show.
-Never have I ever tried paddleboard yoga.
-Never have I ever been to a drum circle.
-Never have I ever tried a spin class.
-Never have I ever gone to a poetry reading.
-Never have I ever tried an escape room.
-Never have I ever ridden a tandem kayak.
-Never have I ever tried aerial silks.
-Never have I ever been to a roller derby match.
-Never have I ever tried stand-up paddleboarding.
-Never have I ever been to a storytelling event.
-Never have I ever tried a circus skills workshop.
-Never have I ever ridden a hoverboard.
-Never have I ever been to a chili cook-off.
-Never have I ever tried ax throwing.
-Never have I ever been to a wine and painting class.
-Never have I ever tried sand sculpting.
-Never have I ever been to a food truck festival.
-Never have I ever tried curling.
-Never have I ever been to a puppet show.
-Never have I ever tried indoor surfing.
-Never have I ever been to a silent meditation retreat.
-Never have I ever tried indoor trampolining.
-Never have I ever been to a hula hoop workshop.
-Never have I ever tried an improv comedy class.
-Never have I ever been to a kite festival.
-Never have I ever tried acrobatics.
-Never have I ever been to a costume party.
-Never have I ever ridden a roller coaster.
-Never have I ever tried indoor skydiving.
-Never have I ever sung karaoke in front of a large audience.
-Never have I ever traveled alone.
-Never have I ever gone skinny dipping in the ocean.
-Never have I ever gone on a blind date.
-Never have I ever eaten a ghost pepper.
-Never have I ever been on a cruise.
-Never have I ever taken a spontaneous road trip.
-Never have I ever tried sushi.
-Never have I ever been on a helicopter ride.
-Never have I ever gone on a hot air balloon ride.
-Never have I ever participated in a flash mob.
-Never have I ever danced in the pouring rain.
-Never have I ever gone camping in the wilderness.
-Never have I ever ridden a horse.
-Never have I ever been to a music festival.
-Never have I ever gone on a picnic.
-Never have I ever tried bungee jumping.
-Never have I ever climbed a mountain.
-Never have I ever been to a comedy club.
-Never have I ever taken a cooking class.
-Never have I ever gone on a blind date set up by a friend.
-Never have I ever tried surfing.
-Never have I ever gone scuba diving.
-Never have I ever ridden a zip line.
-Never have I ever tried rock climbing.
-Never have I ever gone fishing.
-Never have I ever ridden a jet ski.
-Never have I ever been on a road trip with friends.
-Never have I ever gone snorkeling.
-Never have I ever gone ziplining.
-Never have I ever tried snowboarding.
-Never have I ever gone whitewater rafting.
-Never have I ever taken a salsa dancing class.
-Never have I ever gone horseback riding on the beach.
-Never have I ever gone to a wine tasting.
-Never have I ever ridden a motorcycle.
-Never have I ever gone ice skating.
-Never have I ever gone on a blind date set up by a family member.
-Never have I ever tried indoor rock climbing.
-Never have I ever been in a food fight.
-Never have I ever learned to play a musical instrument.
-Never have I ever tried a new sport.
-Never have I ever been to a wedding.
-Never have I ever taken a hot air balloon ride.
-Never have I ever tried an exotic cuisine.
-Never have I ever gone paintballing.
-Never have I ever been on a double date.
-Never have I ever ridden a mechanical bull.
-Never have I ever gone camping with friends.
-Never have I ever gone snowmobiling.
-Never have I ever tried bobsledding.
-Never have I ever gone glacier hiking.
-Never have I ever gone on a spontaneous trip.
-Never have I ever tried kite surfing.
-Never have I ever gone geocaching.
-Never have I ever been to a murder mystery dinner.
-Never have I ever taken a dance class.
-Never have I ever tried archery.
-Never have I ever ridden a Segway.
-Never have I ever been to a speed dating event.
-Never have I ever tried a new hairstyle or hair color.
-Never have I ever been in a flash mob.
-Never have I ever tried salsa dancing.
-Never have I ever participated in a 5K run.
-Never have I ever gone on a blind date set up by an app.
-Never have I ever ridden a tandem bicycle.
-Never have I ever tried an extreme sport.
-Never have I ever gone spelunking (cave exploring).
-Never have I ever gone wakeboarding.
-Never have I ever tried stand-up comedy.
-Never have I ever ridden a camel.
-Never have I ever gone river tubing.
-Never have I ever tried a food challenge.
-Never have I ever taken a cooking class.
-Never have I ever been to a silent disco.
-Never have I ever gone on a pub crawl.
-Never have I ever tried mountain biking.
-Never have I ever gone to a poetry reading.
-Never have I ever ridden a tandem kayak.
-Never have I ever tried stand-up paddleboarding.
-Never have I ever been to a storytelling event.
-Never have I ever tried a sensory deprivation tank.
-Never have I ever been to a magic show.
-Never have I ever tried acroyoga.
-Never have I ever gone roller skating.
-Never have I ever tried speed skating.
-Never have I ever been to a karaoke bar.
-Never have I ever tried a sensory dining experience.
-Never have I ever gone to a wine and painting class.
-Never have I ever ridden a hoverboard.
-Never have I ever been to a chili cook-off.
-Never have I ever tried ax throwing.
-Never have I ever tried indoor surfing.
-Never have I ever been to a silent meditation retreat.
-Never have I ever ridden a bicycle built for two.
-Never have I ever tried circus skills.
-Never have I ever been on a submarine tour.
-Never have I ever gone parasailing.
-Never have I ever gone zip-lining through a rainforest.
-Never have I ever been on a blind date set up by a coworker.
-Never have I ever tried karaoke in a language I don't speak fluently.
-Never have I ever been in a talent show.
-Never have I ever gone ghost hunting in a haunted place.
-Never have I ever gone skinny dipping in a lake.
-Never have I ever tried mountain climbing.
-Never have I ever taken a spontaneous trip to a foreign country.
-Never have I ever eaten a meal cooked by a celebrity chef.
-Never have I ever been to a surprise party that was meant for someone else.
-Never have I ever ridden a mechanical bull at a country fair.
-Never have I ever tried stand-up paddleboarding in the ocean.
-Never have I ever gone on a blind date set up by an online dating app.
-Never have I ever played a musical instrument in a band.
-Never have I ever gone camping in the desert.
-Never have I ever ridden a Segway on a city tour.
-Never have I ever tried a food from a different culture that I couldn't pronounce.
-Never have I ever taken part in a color run.
-Never have I ever gone to a yoga retreat.
-Never have I ever gone on a blind date set up by a stranger.
-Never have I ever tried surfing in the ocean.
-Never have I ever been in a flash mob in a public place.
-Never have I ever ridden a roller coaster that goes upside down.
-Never have I ever tried a circus trapeze class.
-Never have I ever been in a hot air balloon during sunrise.
-Never have I ever gone camping in the mountains.
-Never have I ever tried a new hairstyle or hair color that was drastically different.
-Never have I ever gone on a blind date set up by a family member.
-Never have I ever been to a rooftop party.
-Never have I ever tried indoor surfing on a simulator.
-Never have I ever been to a psychic or fortune teller.
-Never have I ever ridden a tandem bike with a friend.
-Never have I ever taken part in a polar plunge (jumping into icy water).
-Never have I ever gone hiking in a rainforest.
-Never have I ever tried acrobatic yoga with a partner.
-Never have I ever been to a haunted house attraction.
-Never have I ever gone wine tasting at a vineyard.
-Never have I ever ridden a camel in the desert.
-Never have I ever gone on a hot air balloon ride at sunset.
-Never have I ever tried indoor skydiving in a vertical wind tunnel.
-Never have I ever taken a salsa dancing class.
-Never have I ever gone mountain biking on a rugged trail.
-Never have I ever tried a virtual reality experience.
-Never have I ever been to a masquerade ball in formal attire.
-Never have I ever gone paragliding over a scenic landscape.
-Never have I ever tried paddleboard yoga on a calm lake.
-Never have I ever gone river tubing down a lazy river.
-Never have I ever tried a sensory deprivation tank for relaxation.
-Never have I ever participated in a synchronized swimming performance.
-Never have I ever gone curling on an ice rink.
-Never have I ever tried snowmobiling in a snowy wilderness.
-Never have I ever been on a scenic helicopter tour.
-Never have I ever tried rollerblading in a park.
-Never have I ever gone speed dating to meet new people.
-Never have I ever tried playing the didgeridoo.
-Never have I ever gone paddleboarding on a calm ocean.
-Never have I ever tried beekeeping to collect honey.
-Never have I ever gone mountain climbing with ropes and harnesses.
-Never have I ever tried cross-country skiing in a snowy forest.
-Never have I ever gone to a silent disco party.
-Never have I ever tried archery at an archery range.
-Never have I ever gone snowshoeing in deep snow.
-Never have I ever tried skateboarding at a skate park.
-Never have I ever gone sailing on a sailboat.
-Never have I ever tried indoor trampolining at a trampoline park.
-Never have I ever gone kayaking in a bioluminescent bay.
-Never have I ever tried acroyoga on the beach.
-Never have I ever gone kite surfing in the ocean.
-Never have I ever tried scuba diving in a coral reef.
-Never have I ever gone rock climbing on natural rock formations.
-Never have I ever tried ice climbing on frozen waterfalls.
-Never have I ever gone white-water kayaking in rapids.
-Never have I ever tried sandboarding down desert dunes.
-Never have I ever gone windsurfing on a windy day.
-Never have I ever tried BASE jumping from a cliff.
-Never have I ever gone canyoneering in narrow slot canyons.
-Never have I ever tried parahawking (paragliding with trained birds of prey).
-Never have I ever gone heli-skiing in remote snowy mountains.
-Never have I ever tried slacklining between two trees.
-Never have I ever gone cave diving in underwater caves.
-Never have I ever tried shark cage diving to see great white sharks.
-Never have I ever gone on a motorcycle road trip.
-Never have I ever tried ice yachting on a frozen lake.
-Never have I ever gone sand sculpting on the beach.
-Never have I ever tried deep-sea fishing in the open ocean.
-Never have I ever gone snorkeling with sea turtles.
-Never have I ever tried parasnowboarding in the backcountry.
-Never have I ever gone ice canoeing on a frozen river.
-Never have I ever tried underwater photography while diving.
-Never have I ever gone hot air ballooning over a canyon.
-Never have I ever tried glacier hiking in a remote area.
-Never have I ever gone snow kiting on a frozen lake.
-Never have I ever tried paddleboard yoga in the Caribbean.
-Never have I ever gone sandcastle competition at a beach festival.
-Never have I ever tried free diving without scuba equipment.
-Never have I ever gone kitesurfing in tropical waters.
-Never have I ever tried jet surfing on a motorized surfboard.
-Never have I ever gone underwater cave snorkeling.
-Never have I ever tried kite foiling on a foilboard.
+Are you scared of the dark?
+Are you still a virgin?
+Are you turned on right now?
+Blondes, brunettes or redheads?
+Describe what makes someone husband or wife material.
+Did you have an imaginary friend growing up?
+Did your parents ever give you the “birds and the bees” talk?
+Do you cover your eyes during a scary part in a movie?
+Do you drool in your sleep?
+Do you ever lick your plate after dinner?
+Do you ever talk to yourself in the mirror?
+Do you have an “I’m getting laid tonight” outfit?
+Do you have any interesting fetishes?
+Do you have any silly nicknames?
+Do you have any spicy pictures or videos saved on your phone?
+Do you have hidden piercings or tattoos?
+Do you like a lot of foreplay?
+Do you like telling someone what to do in bed, or do you prefer to be told what to do?
+Do you pee in the shower?
+Do you prefer  traveling by train or bus?
+Do you prefer a carnival or the circus?
+Do you prefer a fan or air conditioner?
+Do you prefer a guitar or piano?
+Do you prefer a theme park or water park?
+Do you prefer a wallet or money clip?
+Do you prefer a zoo or aquarium?
+Do you prefer art festivals or music festivals?
+Do you prefer barbecue or oven?
+Do you prefer baseball or football?
+Do you prefer black coffee or cream and sugar?
+Do you prefer books or Kindle?
+Do you prefer bowling or putt-putt?
+Do you prefer breakfast or no breakfast?
+Do you prefer chicken nuggets or chicken fingers?
+Do you prefer Christmas or Halloween?
+Do you prefer Coca Cola or Pepsi?
+Do you prefer Disney World or Universal?
+Do you prefer dogs or cats?
+Do you prefer drawing or painting?
+Do you prefer dyed hair or natural colors?
+Do you prefer eBay or Amazon?
+Do you prefer eggs or pancakes?
+Do you prefer electric light or natural light?
+Do you prefer fireplaces or fire pits?
+Do you prefer flip flops or sneakers?
+Do you prefer gas or electric stove?
+Do you prefer hamburgers or hot dogs?
+Do you prefer hot tubs or hot springs?
+Do you prefer Mansions or farmhouses?
+Do you prefer Marvel or DC?
+Do you prefer mashed potatoes or baked potatoes?
+Do you prefer matching or mismatched socks?
+Do you prefer movie theaters or arcades?
+Do you prefer Nintendo or Sega?
+Do you prefer one-on-one or the more the merrier?
+Do you prefer Pringles or Lay's?
+Do you prefer riches or happiness?
+Do you prefer roses or sunflowers?
+Do you prefer skydiving or bungee jumping?
+Do you prefer smoking or non-smoking?
+Do you prefer Spongebob or Patrick?
+Do you prefer spring or fall?
+Do you prefer store-bought gifts or handmade?
+Do you prefer summer or winter?
+Do you prefer sushi or smoked fish?
+Do you prefer sweet or sour?
+Do you prefer tattoos or piercings?
+Do you prefer The Simpsons or Family Guy?
+Do you prefer traveling by car or plane?
+Do you prefer T-shirt or button-up?
+Do you prefer white or wheat bread?
+Do you prefer Xbox or PlayStation?
+Do you prefer yoga pants or jeans?
+Do you sing in the shower?
+Do you sleep completely nude?
+Do you sleep with a stuffed animal?
+Do you talk in your sleep?
+Do you think you are a good kisser?
+Do you want to get married one day?
+Do you want to have kids?
+Do you write in a diary?
+Go around the room and say one positive and one negative thing about each person
+Has your partner ever embarrassed you?
+Have you ever accidentally hit something with your car?
+Have you ever been attracted to the same sex?
+Have you ever been attracted to the same sex?
+Have you ever been caught checking someone out?
+Have you ever been in a "friends with benefits" situation?
+Have you ever been in love?
+Have you ever been rejected by someone?
+Have you ever been stood up on a date?
+Have you ever been to a LARP event?
+Have you ever been to a nudist beach?
+Have you ever been to a strip club?
+Have you ever broke a bone?
+Have you ever butt-dialed someone?
+Have you ever cheated on your partner?
+Have you ever cheated on your partner?
+Have you ever cursed at your parents?
+Have you ever donated money to charity?
+Have you ever done anything illegal?
+Have you ever done it at work?
+Have you ever done it in a car?
+Have you ever done it in a public place?
+Have you ever done it while other people were around without them knowing?
+Have you ever dyed your hair?
+Have you ever failed a class?
+Have you ever fallen asleep in class?
+Have you ever fallen in love at first sight?
+Have you ever fallen out of bed in the middle of the night?
+Have you ever farted in an elevator?
+Have you ever farted loudly in class?
+Have you ever flashed someone?
+Have you ever given or been given ‘attention’ while driving a car?
+Have you ever gone to school/work late due to oversleeping?
+Have you ever gotten caught doing something you shouldn’t?
+Have you ever gotten detention or been suspended?
+Have you ever gotten into a fight on school grounds?
+Have you ever had a crush on a friend’s boyfriend/girlfriend?
+Have you ever had a crush on a person at least 10 years older than you?
+Have you ever had a crush on a teacher?
+Have you ever had a one-night stand?
+Have you ever had lice?
+Have you ever kept a library book?
+Have you ever kissed someone of the same gender?
+Have you ever lied about your age?
+Have you ever made someone cry?
+Have you ever peed in the pool?
+Have you ever pictured someone naked when talking to them?
+Have you ever posted something on social media that you regret?
+Have you ever practiced kissing in a mirror?
+Have you ever pretended to be sick to get out of something?
+Have you ever pretended to like a gift?
+Have you ever received a nude selfie?
+Have you ever roleplayed?
+Have you ever sent a nude selfie?
+Have you ever sexted anyone?
+Have you ever shared your friend's secret with someone else?
+Have you ever slept with someone of the same gender?
+Have you ever smoked?
+Have you ever stalked your crush?
+Have you ever stuck gum under a desk?
+Have you ever taken a body shot?
+Have you ever tasted ear wax?
+Have you ever thought about cheating on your partner?
+Have you ever told a secret you were told to keep?
+Have you ever tried drugs?
+Have you ever tried to take a sexy picture of yourself?
+Have you ever walked in on your parents doing it?
+Have you ever wanted to cheat on your partner?
+Have you ever wanted to try on clothing of the opposite sex?
+Have you ever written a love letter?
+How far would you go on a first date?
+How long was your longest relationship?
+How many partners have you had?
+How many people have seen you naked in this room?
+How many people have you slept with?
+How many times a week do you touch yourself?
+How often do you watch something naughty?
+If I looked in your nightstand, what would I find?
+If I went through your room, what would I be surprised to find?
+If you could go back in time in erase one thing you said or did, what would it be?
+If you could go on a romantic date with anyone in this room, who would you pick?
+If you could only use one swear word for the rest of your life, which one would you choose?
+If you got to have a threesome with people in this room, who would you do it with and why?
+If you had to flash just one person in this room, who would it be?
+If you had to go skinny dipping with someone, who in this room would you choose?
+If you knew your friend's partner was cheating on them, what would you do?
+If you ran out of toilet paper, would you consider wiping with the empty roll?
+If you switched genders for the day, what would you do?
+If your crush told you they liked your best friend, what would you do?
+If your parents hated your partner, what would you do?
+If your partner hated your best friend, what would you do?
+Is there anything about your life you would change?
+Name something illegal that you've done and regret
+Of the people in this room, who do you want to trade lives with?
+What "as seen on TV" product do you secretly want to buy?
+What app on your phone do you waste the most time on?
+What are some things you think about when sitting on the toilet?
+What are you afraid of?
+What has been the most expensive ticket you've ever gotten?
+What have you lied to your partner about?
+What have you seen that you wish you could unsee?
+What is something that is absolutely off-limits in the bedroom?
+What is something you did that you feel really guilty about?
+What is something you’ve done to try to be ‘cooler’?
+What is the biggest deal-breaker for you?
+What is the craziest thing you’ve ever watched?
+What is the dumbest thing I’ve ever said?
+What is the most attractive feature on a person?
+What is the most childish thing that you still do?
+What is the most embarrassing moment in your life?
+What is the most illegal thing you have ever done?
+What is the most times you've done it in one day?
+What is the most times you've touched yourself in one day?
+What is the most you’ve done for sex in the past?
+What is the weirdest action you have done while you’re drunk?
+What is the weirdest thing you’ve done in public?
+What is the worst food you have ever tasted?
+What is your biggest fear?
+What is your favorite "special" toy?
+What is your favorite alcoholic drink?
+What is your favorite food of all time?
+What is your favorite fruit?
+What is your favorite possession?
+What is your favorite season?
+What is your favorite soda?
+What is your greatest fear in a relationship?
+What is your greatest fear in a relationship?
+What is your guilty pleasure?
+What is your last nightmare?
+What is your worst habit?
+What movie could you watch over and over again?
+What part of your body do you love, and which part do you hate?
+What was your biggest sexual disappointment?
+What was your first job?
+What was your funniest sexual experience like?
+What was your most embarrassing moment in public?
+What would be more thrilling: angry sex or makeup sex?
+What would you do if you found out your partner liked someone else?
+What would you do if your best friend told you that they liked your crush?
+What’s been on your mind lately?
+What’s something your mom doesn’t know about you?
+What’s the best news you’ve ever heard?
+What’s the grossest thing that you do when you’re alone?
+What’s the lamest thing you’ve Googled?
+What’s the worst lie you’ve ever told?
+What’s the worst thing you’ve ever done at work?
+What’s the worst thought you’ve ever had?
+What’s your biggest insecurity?
+What’s your favorite fantasy to pleasure yourself to?
+What's something you wish you didn’t know?
+What's the best purchase that you’ve made for $10 or less?
+What's the best thing to say to your friend that would be the worst thing to say to your crush?
+What's the hottest thing someone’s ever done to you?
+What's the most flirtatious thing you've ever done?
+What's the most useless piece of knowledge you know?
+What's your biggest turn-on?
+What's your favorite place on your body to be kissed?
+What's your most shallow reason for not going on a second date?
+What's your ultimate sexual fantasy?
+When did you last go solo?
+When is your first kiss?
+When was the first time you came?
+When was the last time you cried?
+When was the last time you got really angry?
+When was the most embarrassing time you got turned on?
+When you were eight years old, what did you want to be when you grew up?
+Where is the weirdest place that you’ve ever gone solo?
+Which cartoon character do you have the biggest crush on?
+Which celebrity do you want to have a relationship with?
+Who are you jealous of?
+Who do you most want to sleep with out of everyone here?
+Who do you most want to sleep with, out of everyone here?
+Who do you want to make out with the most in this room?
+Who here are you most jealous of?
+Who here do you think is the best flirt?
+Who here is the most likely to do anything with their life?
+Who in the room would be the best wing-man?
+Who in this room do you want to have your first kiss with?
+Who’s your favorite family member?
+Who's the funniest in this room?
+Would you break up with your partner for 1 million?
+Would you ever date two people at once if you could get away with it?
+Would you ever get into a long-distance relationship?
+Would you go out with an older person?
+Would you go to a nude beach?
+Would you rather be skinny and hairy or fat and smooth?
+Would you rather eat dog food or cat food?
+Would you rather live with no internet or no A/C or heating?
+Would you rather lose your sex organs forever or gain 200 pounds?
+Would you share a toothbrush with your partner?
+You win a trip and are allowed to bring two people, who do you pick?
+Never have I ever "cleaned up" by piling everything into a closet
+Never have I ever accidentally eaten a bug
+Never have I ever accidentally pooped my pants
+Never have I ever arrived somewhere late and had everyone stare at me
+Never have I ever been a bully
+Never have I ever been a friend with benefits
+Never have I ever been arrested
+Never have I ever been caught picking my nose
+Never have I ever been drunk at a restaurant
+Never have I ever been drunk in public
+Never have I ever been hungover
+Never have I ever been in handcuffs
+Never have I ever been inside of a library
+Never have I ever been mini-golfing
+Never have I ever been on a blind date
+Never have I ever been on a family road trip
+Never have I ever been on stage in front of a crowd
+Never have I ever been out of the country
+Never have I ever been playful with whipped cream
+Never have I ever been pulled over by the police
+Never have I ever been scared of clowns
+Never have I ever been scared of the dark
+Never have I ever been sent to the principal's office
+Never have I ever been terrified of a theme park ride
+Never have I ever been the designated driver
+Never have I ever been the drunkest person at the party
+Never have I ever been to a drive-in movie
+Never have I ever been to a haunted house
+Never have I ever been to a sleepover
+Never have I ever been to a wine tasting
+Never have I ever been to an adult store
+Never have I ever been to Disney World
+Never have I ever been told I had bad breath
+Never have I ever blamed farts on an animal
+Never have I ever bought a children's toy for myself, as an adult
+Never have I ever bought clothing online
+Never have I ever bought lingerie
+Never have I ever bought myself a Happy Meal
+Never have I ever bought something stolen
+Never have I ever broke up with someone while drunk
+Never have I ever broken a piece of furniture by sitting on it
+Never have I ever broken in somewhere
+Never have I ever broken the "five-second rule"
+Never have I ever built a fort with blankets
+Never have I ever bungee-jumped
+Never have I ever burnt my mouth willingly because I was too hungry to wait
+Never have I ever called the cops on someone
+Never have I ever called the wrong person, then pretended I meant to call them
+Never have I ever changed a diaper
+Never have I ever cheated on a test
+Never have I ever cleaned out the fridge and found food over a year old
+Never have I ever clogged a toilet
+Never have I ever counted calories
+Never have I ever crashed a party or wedding
+Never have I ever creeped on someone I just met on social media
+Never have I ever cried at school
+Never have I ever cried during a Pixar movie
+Never have I ever crossed state lines to buy better fireworks
+Never have I ever cut someone in line
+Never have I ever danced on a table or bar
+Never have I ever dated more than one person at once
+Never have I ever dated someone through a dating app
+Never have I ever dated someone who was underage
+Never have I ever daydreamed about donuts
+Never have I ever destroyed a public bathroom
+Never have I ever dine and dashed
+Never have I ever dipped french fries into a milkshake
+Never have I ever done a body shot
+Never have I ever done a pub crawl
+Never have I ever done an Easter egg hunt
+Never have I ever done it in a public place
+Never have I ever done it outside
+Never have I ever downloaded music illegally
+Never have I ever drank a flaming shot
+Never have I ever drank at a bar
+Never have I ever drank before reaching your contries legal age
+Never have I ever drank liquor straight from the bottle
+Never have I ever drank pickle juice
+Never have I ever dressed as the opposite sex
+Never have I ever driven drunk
+Never have I ever driven without wearing a seatbelt
+Never have I ever dropped Mentos into Coke or Pepsi
+Never have I ever drunkenly posted something online that I wished I hadn't
+Never have I ever eaten butter by itself
+Never have I ever eaten expired food or drink
+Never have I ever eaten food while still standing with the fridge door open
+Never have I ever eaten from someone else's plate when they weren't looking
+Never have I ever eaten my nose boogers
+Never have I ever eaten something cold because I was too lazy to heat it up
+Never have I ever eaten something on a dare
+Never have I ever eaten Spam
+Never have I ever faked being sick so I could play video games
+Never have I ever fallen asleep and woken up somewhere else
+Never have I ever fallen off a bike
+Never have I ever fantasized about someone else
+Never have I ever farted in front of someone I liked
+Never have I ever finished a Sudoku puzzle
+Never have I ever flirted with a police officer in hopes of not getting a ticket
+Never have I ever flirted with someone more than 10 years older than me
+Never have I ever flown in a helicopter
+Never have I ever forgotten the punchline of a joke
+Never have I ever gently whispered in someone's ear
+Never have I ever given a lap dance
+Never have I ever given money to a homeless person
+Never have I ever given myself a bad haircut
+Never have I ever given someone a hickey
+Never have I ever gone commando
+Never have I ever gone into the wrong restroom
+Never have I ever gone more than a week without showering
+Never have I ever Googled my own name to see what comes up
+Never have I ever Googled sex positions
+Never have I ever Googled something so I'd know how to spell it
+Never have I ever gotten into a fistfight
+Never have I ever gotten poop on my hand
+Never have I ever greeted someone I thought was someone else
+Never have I ever had a baby spit up on me
+Never have I ever had a bedroom injury
+Never have I ever had a cavity
+Never have I ever had a cheesy pick-up line work on me
+Never have I ever had a crush on a friend's sibling
+Never have I ever had a crush on a teacher
+Never have I ever had a date with someone I met on an app
+Never have I ever had a deep-fried candy bar
+Never have I ever had a dream about someone I liked
+Never have I ever had a drop land on the toilet seat and not cleaned it off
+Never have I ever had a favorite sex toy
+Never have I ever had a friend with benefits
+Never have I ever had a full-body massage
+Never have I ever had a hickey
+Never have I ever had a Jell-O shot
+Never have I ever had a nightmare about zombies chasing me
+Never have I ever had a one night stand
+Never have I ever had a one-night stand
+Never have I ever had a relationship
+Never have I ever had a stranger buy me a drink
+Never have I ever had a threesome
+Never have I ever had a weird nickname
+Never have I ever had breakfast in bed
+Never have I ever had diarrhea at a friend's house
+Never have I ever had food stuck in my teeth all day
+Never have I ever had gum in my hair
+Never have I ever had someone draw a caricature of me
+Never have I ever had someone walk in on me in the bathroom
+Never have I ever had such bad diarrhea that I didn't make it to the bathroom in time
+Never have I ever had surgery
+Never have I ever had to be carried to bed
+Never have I ever had trouble sleeping after watching a scary movie
+Never have I ever heard someone else doing it
+Never have I ever jaywalked
+Never have I ever jumped a fence
+Never have I ever jumped out of a plane
+Never have I ever just looked at myself naked in the mirror
+Never have I ever killed ants with a magnifying glass
+Never have I ever laughed so hard that I peed my pants
+Never have I ever learned how to play a musical instrument
+Never have I ever left a drunk voicemail
+Never have I ever let dirty dishes sit in the sink for over a week
+Never have I ever licked a coin
+Never have I ever licked a frozen pole
+Never have I ever lied about my age
+Never have I ever lied about staying after school and gone somewhere else
+Never have I ever lied in a job interview
+Never have I ever lied to a police officer
+Never have I ever lied to my parents about where I was going
+Never have I ever littered
+Never have I ever locked my keys in my car
+Never have I ever lost count of how many drinks I had
+Never have I ever lost my swimwear bottoms
+Never have I ever lost sunglasses that I was already wearing
+Never have I ever made a duck face when taking a selfie
+Never have I ever made a fake social media account
+Never have I ever made a gross smoothie
+Never have I ever made a wish at a fountain
+Never have I ever made an impulse purchase online while drunk
+Never have I ever made any naughty videos
+Never have I ever made out with a stranger
+Never have I ever made out with someone in a hot tub
+Never have I ever made up my own cocktail
+Never have I ever made vodka gummy bears
+Never have I ever met a celebrity
+Never have I ever missed a high five
+Never have I ever mistaken a man for a women or vice versa
+Never have I ever named a stuffed animal
+Never have I ever not tipped at a restaurant
+Never have I ever owned a watch
+Never have I ever owned an Xbox
+Never have I ever participated in a drinking competition
+Never have I ever passed a vehicle in a "no-passing" zone
+Never have I ever passed second base
+Never have I ever peed in the pool
+Never have I ever peed in the sink
+Never have I ever peeked at someone in the shower
+Never have I ever peeled a sunburn and enjoyed it
+Never have I ever performed in a talent show
+Never have I ever picked stuff out of my belly button
+Never have I ever played beer pong
+Never have I ever played Candy Crush
+Never have I ever played hard to get
+Never have I ever played on my phone, trying to look like I'm doing something important
+Never have I ever played poker for money
+Never have I ever played strip poker
+Never have I ever popped someone else's pimple
+Never have I ever practiced public speaking in the mirror
+Never have I ever prank called the police
+Never have I ever pretended to know a stranger
+Never have I ever pretended to laugh at a joke I didn't get
+Never have I ever pretended to like a wine to look classier
+Never have I ever pretended to wash my hands by turning the water on, just in case someone is listening
+Never have I ever purchased sexy sleepwear
+Never have I ever put candy on pizza
+Never have I ever put ice cubes in my milk and cereal
+Never have I ever ran a red light
+Never have I ever read a single Harry Potter book
+Never have I ever received a free drink
+Never have I ever recorded video of myself singing or dancing
+Never have I ever refreshed over and over to see if I have any new messages
+Never have I ever re-gifted a gift card
+Never have I ever reread an email immediately after sending it
+Never have I ever returned an item I used or clothing I wore
+Never have I ever ridden a bike on the sidewalk
+Never have I ever ridden a skateboard
+Never have I ever said a toast
+Never have I ever salted watermelon
+Never have I ever sang in the shower
+Never have I ever sang on a stage
+Never have I ever sat in the shower
+Never have I ever scared myself in a mirror
+Never have I ever scored over 100 while bowling
+Never have I ever screamed because of a bug
+Never have I ever secretly wished I were a wizard at Hogwarts
+Never have I ever seen an elephant in real life
+Never have I ever seen snow
+Never have I ever seen someone else naked in person
+Never have I ever seen Titanic
+Never have I ever sent a dirty text to the wrong person
+Never have I ever sent a nude picture
+Never have I ever sent a sexy photo to a friend
+Never have I ever sent a text to the wrong person
+Never have I ever sent someone a sexy selfie
+Never have I ever shared passwords to services so family or friends didn't have to pay
+Never have I ever shoplifted from a store
+Never have I ever shot a gun
+Never have I ever shotgunned a beer
+Never have I ever skipped a movie to make out in the parking lot instead
+Never have I ever slept in regular clothing
+Never have I ever slipped someone my phone number
+Never have I ever smelled clothing to see if they were too dirty to wear again
+Never have I ever smiled at someone when I realized I wasn't listening to what they were saying
+Never have I ever smuggled food into a movie theater
+Never have I ever snuck into a club
+Never have I ever snuck out of the house
+Never have I ever spent hours watching funny videos on YouTube
+Never have I ever spent time in detention
+Never have I ever spit out gum onto the ground
+Never have I ever stalked a crush
+Never have I ever stayed friends with an ex
+Never have I ever stayed up all night
+Never have I ever stayed up all night
+Never have I ever stepped barefoot in dog poop
+Never have I ever stolen a friend's story and pretended it happened to me
+Never have I ever stolen money from someone
+Never have I ever stolen Wi-Fi from an unsecured network
+Never have I ever sucked my thumb
+Never have I ever sung karaoke
+Never have I ever taken a shot with no hands
+Never have I ever tasted dog or cat food
+Never have I ever tasted earwax
+Never have I ever texted someone I didn't mean to when I was tipsy
+Never have I ever thought a cartoon character was hot
+Never have I ever thought a fart smelled good
+Never have I ever thought a movie was better than the book
+Never have I ever thought about what type of dog I would be
+Never have I ever thrown something at a moving car
+Never have I ever thrown up after seeing someone else throw up
+Never have I ever thrown up in my mouth and swallowed it
+Never have I ever toured a brewery
+Never have I ever tried a banana and mayonnaise sandwich
+Never have I ever tried a cheesy pick-up line on someone
+Never have I ever tried a craft beer
+Never have I ever tried a restaurant's food challenge
+Never have I ever tried baby food
+Never have I ever tried champagne
+Never have I ever tried counting how many licks it took to get to the center of a popsicle
+Never have I ever tried moonshine
+Never have I ever tried out to be an extra in a movie
+Never have I ever tried pickles with peanut butter
+Never have I ever tried skinny dipping
+Never have I ever tried something I saw on Pinterest
+Never have I ever tried to do a keg stand
+Never have I ever tried to flee the cops
+Never have I ever tried to impress a crush by seeming knowledgeable about things they liked
+Never have I ever tried to pass a silent fart, but it came out loud instead
+Never have I ever tried wine in a box
+Never have I ever tripped in public
+Never have I ever turned underwear inside out to get more use out of it
+Never have I ever used a baby spoon to eat ice cream so it would last longer
+Never have I ever used a fake ID
+Never have I ever used a public restroom that had no toilet paper
+Never have I ever used handcuffs or something similar
+Never have I ever used medicine that was prescribed to me
+Never have I ever used my cell phone while driving
+Never have I ever used my hands as a tissue
+Never have I ever used someone else’s toothbrush
+Never have I ever used the bathroom and not washed my hands
+Never have I ever vomited in public
+Never have I ever voted
+Never have I ever walked around with my zipper down
+Never have I ever walked in on someone in the bathroom
+Never have I ever watched a movie because I knew it had nudity
+Never have I ever watched children's cartoons I'm too old for
+Never have I ever watched pimple-popping videos
+Never have I ever watched the Ghostbusters remake
+Never have I ever winked or whistled at someone
+Never have I ever wiped my armpits with a towel instead of showering
+Never have I ever won a game of Scrabble
+Never have I ever worn sleepwear and pretended it was clothing
+Never have I ever worn someone else’s underwear
+Never have I ever worn the same jeans for a week without washing them
+Never have I ever worn the same pair of underwear more than three days
+Who is most likely to accidentally poison someone with terrible cooking?
+Who is most likely to ask for advice but never take it?
+Who is most likely to be killed first if they were in a horror movie?
+Who is most likely to be late for everything?
+Who is most likely to be the first one at the mic at karaoke?
+Who is most likely to become a CEO?
+Who is most likely to become a millionaire?
+Who is most likely to become an influencer?
+Who is most likely to break a world record?
+Who is most likely to break their phone the first day they get it?
+Who is most likely to cancel plans at the last moment?
+Who is most likely to commit a crime?
+Who is most likely to cry whilst watching a sad movie?
+Who is most likely to cut their own hair?
+Who is most likely to drop everything and travel the world?
+Who is most likely to eat something off the ground?
+Who is most likely to fake their own death?
+Who is most likely to forget their best friend's birthday?
+Who is most likely to get a divorce?
+Who is most likely to get a terrible tattoo?
+Who is most likely to get caught having sex in public?
+Who is most likely to get lost in their own hometown?
+Who is most likely to get thrown out of the club?
+Who is most likely to get too drunk at pre drinks?
+Who is most likely to give someone a fake phone number?
+Who is most likely to give their kid an unusual (terrible) name?
+Who is most likely to go a week without a shower?
+Who is most likely to go on Love Island?
+Who is most likely to have a one night stand?
+Who is most likely to have a threesome?
+Who is most likely to have a wardrobe malfunction?
+Who is most likely to have their own reality show?
+Who is most likely to join a cult?
+Who is most likely to keep a secret?
+Who is most likely to laugh in a serious moment?
+Who is most likely to lie to get a new job?
+Who is most likely to lock themselves out of their own home?
+Who is most likely to marry someone they just met?
+Who is most likely to never get married?
+Who is most likely to pass out tonight?
+Who is most likely to puke tonight?
+Who is most likely to save up all their money and never spend it?
+Who is most likely to shoplift?
+Who is most likely to sleep with a friend's family member?
+Who is most likely to sleep with their ex?
+Who is most likely to spend all their money on something stupid?
+Who is most likely to spend hours in a YouTube conspiracy theory hole?
+Who is most likely to stay up the longest tonight?
+Who is most likely to still own a Nokia 3310?
+Who is most likely to take a week to reply to a text?
+Who is most likely to win the Nobel Prize?
+Who is most likely to write a bestseller?
+Everyone takes a drink whose name starts with A
+Everyone takes a drink whose name starts with B
+Everyone takes a drink whose name starts with C
+Everyone takes a drink whose name starts with D
+Everyone takes a drink whose name starts with E
+Everyone takes a drink whose name starts with F
+Everyone takes a drink whose name starts with G
+Everyone takes a drink whose name starts with H
+Everyone takes a drink whose name starts with I
+Everyone takes a drink whose name starts with J
+Everyone takes a drink whose name starts with K
+Everyone takes a drink whose name starts with L
+Everyone takes a drink whose name starts with M
+Everyone takes a drink whose name starts with N
+Everyone takes a drink whose name starts with O
+Everyone takes a drink whose name starts with P
+Everyone takes a drink whose name starts with Q
+Everyone takes a drink whose name starts with R
+Everyone takes a drink whose name starts with S
+Everyone takes a drink whose name starts with T
+Everyone takes a drink whose name starts with U
+Everyone takes a drink whose name starts with V
+Everyone takes a drink whose name starts with W
+Everyone takes a drink whose name starts with X
+Everyone takes a drink whose name starts with Y
+Everyone takes a drink whose name starts with Z
+Everyone who has a 0 in their age drinks
+Everyone who has a 1 in their age drinks
+Everyone who has a 2 in their age drinks
+Everyone who has a 3 in their age drinks
+Everyone who has a 4 in their age drinks
+Everyone who has a 5 in their age drinks
+Everyone who has a 6 in their age drinks
+Everyone who has a 7 in their age drinks
+Everyone who has a 8 in their age drinks
+Everyone who has a 9 in their age drinks
+Take 1 drink
+Take 2 drinks
+Take 3 drinks
+Take 4 drinks
+Take 5 drinks
+Give away 1 drink
+Give away 2 drinks
+Give away 3 drinks
+Give away 4 drinks
+Give away 5 drinks
+Take 1 drink, give 1 drink
+Take 1 drink, give 2 drinks
+Take 2 drinks, give 1 drink
+Pick a drinking budy, you both drink the amount you suggest
+Pick a drinking budy, you both drink the amount they suggest
+Drink with the person to your left and right
+The person to your left and right drink
+The person across of you drinks
+Finish half of your drink
+Finish your drink
+Fill up your drink again
+Physically spin around on the table 10 times
+Everyone fills up their drink again
+Pick 2 people, they both finish half their drink
+The person after you picks how much you drink, they drink half that before they spin
+404: drink 4
+All male avatars drink
+All female avatars drink
+All guys drink
+All girls drink
+Drink as much drinks as you want, everyone else drinks half that
+Oldest person in the room drinks
+Youngest person in the room drinks
+Tallest avatar drinks
+Shortest avatar drinks
+Longest username drinks
+Shortest username drinks
+Drink again if you drank something last turn
+Everyone in the room drinks
+Everyone drinks, except for you :(
+Anyone smaller than you drinks
+Anyone taller than you drinks
+All avatars with animal ears drink
+All avatars with a tail drink
+All avatars wearing shoes drink
+All avatars that are NSFW drink
+All avatars with lights on them drink
+All avatars wearing glasses drink
+All avatars wearing thigh highs drink
+All furry avatars drink
+All inanimate avatars drink
+All avatars with emission on them drink
+All avatars with AudioLink on them drink
+All E-boy avatars drink
+All E-girl avatars drink
+All Booth models drink
+All Gumroad models drink
+If your avatar is over 100Mb of texture memory, take 4 drinks
+If your avatar is bellow 20Mb of texture memory, give 4 drinks
+All avatars with a follower/pet drink
+Make a random animal sound, first one to guess it can give a drink
+Take a pure shot
+Pick someone to do a pure shot
+Everyone takes as much drinks as continents they have been to
+Everyone who has done something lewd with someone in the room drinks
+Take as much drinks as there are people playing, divided by 2
+If your avatar can do a backflip, give 2 drinks
+Everyone drinks that did not do so last turn
+Everyone who has their Discord in the bio drinks
+Everyone who has at least 1 similar letter in their name drinks with you
+Everyone drinks 1 for each ex they have
+Everyone who is single takes a drink
+Everyone who is in a relationship takes a drink
+Guess someones kink, if you are correct they drink, if not you drink
+Rhyme time, the person who messes up drinks
+Keep a drink in your mouth and don't swallow it the next person had their drink
+Drink and spin again
+Give a drink and spin again
+Choose if you want spin again, but drinks for the next prompt are dubble
+Toggle off 1 piece of clothing, or drink 6
+Everyone takes a drink if there are 2 people with the same avatar
+Play rock paper scissors with someone, winner gives a dink
+Drink some water :)
+Challenge someone to emptying a drink, loser drinks double on their next prompt
+Anyone who is drinking beer, take a drink
+Anyone who is drinking vodka, take a drink
+Anyone who is drinking whisky, take a drink
+Anyone who is drinking rum, take a drink
+If your drink is cold, give 1 drink
+If your drink is less than half full, empty it
+Anyone who has black on their avatar drinks
+Anyone who has white on their avatar drinks
+Anyone who has orange on their avatar drinks
+Anyone who has purple on their avatar drinks
+Anyone who has yellow on their avatar drinks
+Anyone who has green on their avatar drinks
+Anyone who has blue on their avatar drinks
+Anyone who has red on their avatar drinks
+Anyone who is on green status, give 1 drink
+Anyone who is on orange status, take 2 drinks
+Anyone who is on red status, take 3 drinks
+Anyone who is from The Netherlands takes 2 drinks
+Anyone who is from Germany takes 2 drinks
+Anyone who is from Austria takes 2 drinks
+Anyone who is from Belgium takes 2 drinks
+Anyone who is from Bulgaria takes 2 drinks
+Anyone who is from Denmark takes 2 drinks
+Anyone who is from Czech Republic takes 2 drinks
+Anyone who is from Finland takes 2 drinks
+Anyone who is from United Kingdom takes 2 drinks
+Anyone who is from Norway takes 2 drinks
+Anyone who is from France takes 2 drinks
+Anyone who is from Greece takes 2 drinks
+Anyone who is from Hungary takes 2 drinks
+Anyone who is from Ireland takes 2 drinks
+Anyone who is from Italy takes 2 drinks
+Anyone who is from Luxembourg takes 2 drinks
+Anyone who is from Poland takes 2 drinks
+Anyone who is from Portugal takes 2 drinks
+Anyone who is from Spain takes 2 drinks
+Anyone who is from Sweden takes 2 drinks
+Anyone who is from United States takes 2 drinks
+Anyone who is from Canada takes 2 drinks
+Anyone who is from Mexico takes 2 drinks
+Anyone who is from Brazil takes 2 drinks
+Anyone who is from Japan takes 2 drinks
+Anyone who is from Australia takes 2 drinks
+Anyone who has made a public avatar drinks
+Anyone who has made a public world drinks
+Anyone who does not have a public world drinks
+Pick 1 person who will not join in the group drink
+Anyone who has ever puked from alcohol take a drink
+Start a whirlpool: everyone keeps drinking as long as you drink
+Start a waterfall: you can only stop drinking if the player before you stopped
+Who in the room would you marry, fuck, kill?
+Give someone in the room a kiss
+Give someone in the room a lick
+Put a ice cube in your underwear
+Tell 2 truths and 1 lie
+Give someone your best pickup line
+Give someone your worst pickup line
+Give a kiss on the cheek to the person to your right
+Give a kiss on the cheek to the person to your left
+Anyone who has ever broken up with someone over text drinks 3
+Pick 1 person to take a drink with you
+Pick up to 2 people to take a drink with you
+Pick up to 3 people to take a drink with you
+Pick up to 4 people to take a drink with you
+Anyone who has numbers in their name drinks
+Anyone who has no numbers in their name dinks
+Everyone takes a drink for each person they are simping for
+Everyone takes a drink for each person that simps for them
+Read out the last dirty DM you sent to someone
+Perform 10 pushups on the table
+Perform 10 squads on the table
+Perform 10 crunches on the table
+Rate the person standing in front of you ;)
+Pick someone, you both do your best moan. The group decides who wins, looser finishes their drink
+Everyone who played VRchat for more than 10k hours, drink 10
+Everyone who played VRchat for more than 9k hours, drink 9
+Everyone who played VRchat for more than 8k hours, drink 8
+Everyone who played VRchat for more than 7k hours, drink 7
+Everyone who played VRchat for more than 6k hours, drink 6
+Everyone who played VRchat for more than 5k hours, drink 5
+Everyone who played VRchat for more than 4k hours, drink 4
+Everyone who played VRchat for more than 3k hours, drink 3
+Everyone who played VRchat for more than 2k hours, drink 2
+Everyone who played VRchat for more than 1k hours, drink 1
+Everyone who played VRchat for less than 1k hours, give a drink
+Perform a short lapdance to the player on your right
+Perform a short twerk session on top of the table
+Take drinks with your non-dominant hand for 1 round
+Take drinks with both of your hands for 1 round
+Take drinks with only 1 hand for 1 round
+Yell out the first word that comes to your mind
+If you are wearing full body, rotate your belt 180 degrees for 1 turn
+If you are wearing full body, swap your feet trackers for 1 round
+Tell a joke, if nobody laughs you take a drink
+Tell a sad story to the group
+Tell a happy story to the group
+Tell a lewd story to the group
+You can only whisper for 1 round
+Impersonate someone in the group, if they guess correctly you can give a drink
+Take a drink, gargle it in your mouth and than swallow it
+Perform a jump IRL at the same time as in VR
+Thank Cthulhu for the bountiful amount of drinks you and your friends are receiving, whole group cheers after
+Start drinking until you have 1 drink left in your glass
+Everyone takes 1 drink for each social media platform they are on
+Everyone takes 1 drink for each social media platform you are on
+Switch into a default VRchat avatar for 1 round
+Switch places with someone
+Take a drink if you ever pretended to finish with someone
+Everyone who had Unity crash on them takes a drink
+Everyone who had Blender crash on them takes a drink
+Everyone who has ever been denied takes a drink
+Switch into your lewdest avatar for 1 round
+Perform a "roses are red" poem to someone
+Blow someone a kiss, they take a drink
+Recite a part of "UwU what's this?" lyrics for the group
+Drink the amount the group decides together
+Drink with the 3 people across of you
+Do a Fortnite dance for 5 seconds
+Everyone takes 1 drink for each Lovense toy they own
+Everyone who is currently in a loli avatar drinks
+If the world creator is playing the game, cheers and take 2 drinks
+Anyone who is sluring their words, they drinks some water
+All the boomers take a drink
+Everyone who has a drivers licence drinks
+Everyone who drives on the "right" side of the road drinks ;)
+Anyone who is from Slovakia takes 2 drinks
+Anyone who started questioning their sexuality after playing VRchat dinks
+Everyone who has ever been a Knuckles avatar takes 2 drinks
+Everyone who has ever lost money gambling takes a drink
+Everyone who has ever put someone to sleep in VRchat gives a dink
+Everyone who has ever fallen asleep in VRchat takes a drink
+Everyone who has ever spend more than 50 euro on a Gatcha game drink
+If you ever gotten "water" damage on your VR gear, take a drink
+Go sit on someones lap for 1 round
+Pick someone to sit on your lap for 1 round
+You have to include a "over" in every sentence you make for 1 round
+You have to include a "meow" in every sentence you make for 1 round
+Everyone who has been in VRchat since 2017 give 1 drink
+Everyone who has been in VRchat since 2018 take 1 drink
+Everyone who has been in VRchat since 2019 take 2 drinks
+Everyone who has been in VRchat since 2020 take 3 drinks
+Everyone who has been in VRchat since 2021 take 4 drinks
+Stand in T-pose for 1 round
+Change your satus to: I did an oopsie
+Change your satus to: Just shaved my legs
+Change your satus to: I managed to do it
+Change your satus to: Looking for a playmate
+Change your satus to: Please spank me
+Change your satus to: Put a leash on me
+Change your satus to: Let me lick your finger
+Change your satus to: Finally got it
+Change your satus to: It should've been me..
