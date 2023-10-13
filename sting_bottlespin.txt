@@ -691,8 +691,8 @@ Give away 5 drinks
 Take 1 drink, give 1 drink
 Take 1 drink, give 2 drinks
 Take 2 drinks, give 1 drink
-Pick a drinking budy, you both drink the amount you suggest
-Pick a drinking budy, you both drink the amount they suggest
+Pick a buddy, you both drink the amount you suggest
+Pick a buddy, you both drink the amount they suggest
 Drink with the person to your left and right
 The person to your left and right drink
 The person across of you drinks
@@ -753,8 +753,8 @@ Everyone who is single takes a drink
 Everyone who is in a relationship takes a drink
 Guess someones kink, if you are correct they drink, if not you drink
 Rhyme time, the person who messes up drinks
-Keep a drink in your mouth and don't swallow it the next person had their drink
-Drink and spin again
+Keep a drink in your mouth, don't swallow it till the next person had their drink
+Take a drink and spin again
 Give a drink and spin again
 Choose if you want spin again, but drinks for the next prompt are dubble
 Toggle off 1 piece of clothing, or drink 6
@@ -888,7 +888,7 @@ All the boomers take a drink
 Everyone who has a drivers licence drinks
 Everyone who drives on the "right" side of the road drinks ;)
 Anyone who is from Slovakia takes 2 drinks
-Anyone who started questioning their sexuality after playing VRchat dinks
+Anyone who started questioning their sexuality after playing VRchat drinks
 Everyone who has ever been a Knuckles avatar takes 2 drinks
 Everyone who has ever lost money gambling takes a drink
 Everyone who has ever put someone to sleep in VRchat gives a dink
@@ -914,3 +914,24 @@ Change your satus to: Put a leash on me
 Change your satus to: Let me lick your finger
 Change your satus to: Finally got it
 Change your satus to: It should've been me..
+Everyone takes a drink whose birthday is in January
+Everyone takes a drink whose birthday is in February
+Everyone takes a drink whose birthday is in March
+Everyone takes a drink whose birthday is in April
+Everyone takes a drink whose birthday is in May
+Everyone takes a drink whose birthday is in June
+Everyone takes a drink whose birthday is in July
+Everyone takes a drink whose birthday is in August
+Everyone takes a drink whose birthday is in September
+Everyone takes a drink whose birthday is in October
+Everyone takes a drink whose birthday is in November
+Everyone takes a drink whose birthday is in December
+Is your birhday this month? Give out 5 dirinks!
+Everyone who has hue shift on their avatar drinks
+Take a drink if you are in desktop
+Taka a drink if you are in half-body
+Take a drink if you are in full-body
+Everyone who is sitting down takes 2 drinks
+Everyone who has had Covid takes a drink
+Switch into your newest uploaded avatar
+Switch into your oldest uploaded avatar
