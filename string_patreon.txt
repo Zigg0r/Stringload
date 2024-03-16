@@ -19,3 +19,4 @@ Kattslickare,20
 Raeal Bit-Tooth,20
 Faldrin,20
 Chakat Jaggerfrost,10
+Atrainevochamp,10
