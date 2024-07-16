@@ -12,11 +12,14 @@
 // =============================================
 
 Zoz Zero,30
+nixy595,30
+ ,10
 JPominium,20
 Radarada,20
 Ascendence,20
 Kattslickare,20
 Faldrin,20
+ ,10
 Atrainevochamp,10
 Adam,10
 Black_Light_ST,10
