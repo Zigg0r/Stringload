@@ -14,13 +14,13 @@
 Zoz Zero,30
 nixy595,30
  ,10
+Atrainevochamp,20
 JPominium,20
 Radarada,20
 Ascendence,20
 Kattslickare,20
 Faldrin,20
 VoidWizard,20
-Atrainevochamp,20
  ,10
 Adam,10
 Black_Light_ST,10
