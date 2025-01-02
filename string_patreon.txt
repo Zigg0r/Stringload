@@ -20,8 +20,8 @@ Ascendence,20
 Kattslickare,20
 Faldrin,20
 VoidWizard,20
+Atrainevochamp,20
  ,10
-Atrainevochamp,10
 Adam,10
 Black_Light_ST,10
 nars290,10
